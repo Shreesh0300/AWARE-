@@ -1,0 +1,4935 @@
+
+----- PAGE 1 -----
+Herbal Treatment of Common
+Diseases in West Africa
+
+----- PAGE 2 -----
+ORGANISATION OUEST AFRICAINE DE LA SANTE
+BOBO-DIOULASSO (BURKINA FASO)
+Tel. (226) 20 97 57 75/Fax (226) 20 97 57 72
+E-mail : wahooas@fasonet.bf -
+Site web: www.wahooas.org
+
+Herbal Treatment of Common Diseases
+in West Africa
+
+Bobo-Dioulasso, Décembre 2011.
+
+----- PAGE 3 -----
+Contents
+
+Introduction ...........
+Sickle cell anaemia
+HIV/AIDS.........020
+Tuberculosis
+Malaria
+Diabetes ...
+Arterial hypertension
+Asthma
+Azoospermia
+Gallstones ......
+Kidney stones ....
+Liver cirrhosis ..........
+Erectile dysfunction .
+Gonorrhoea
+Haemorrhoids
+Hepatitis
+Benign prostatic hyperplasia
+Urinary tract infections
+Sexually transmitted infections
+Male infertility-oligospermia ...
+Otitis media ....
+Allergic rhinitis .
+Sinusitis ..........
+Breast cancer
+Prostate cancer
+Leukaemia
+Diarrhoea
+
+Peptic ulcer disease
+Insomnia ............200++
+Depression ..
+Schizophrenia ...
+Alcoholism .........
+Anxiety disorders
+Boils
+Gastro-oesophageal reflux disease
+Gingivitis and stomatitis
+Oral thrush
+Malnutrition...
+Stroke ..........
+Eczema (Dermatitis) ...
+Rheumatoid arthritis .
+Osteoarthritis ...........
+Liver cancer
+
+----- PAGE 4 -----
+Foreword
+
+The manner in which herbal medicines are used varies widely among populations worldwide.
+Whilst some people use herbal medicines alone (often as an alternative to a conventional
+medical treatment), others used them in combination with other alternative therapies, or
+along with conventional medical therapies.
+
+Given the increasing popularity of herbal medicine globally, it is imperative that all healthcare
+professionals, health training and research institutions as well as all other stakeholders have
+some basic knowledge of the most common herbs patients often use for disease treatment.
+
+This is important for two main reasons. Firstly, it is important for health personnel to have an
+understanding of all the health services their patients may be accessing. Secondly, since
+health personnel (especially doctors, nurses and pharmacists) are often used by patients to
+access information on all health and health-related issues, knowledge of the main indications
+and actions of these herbs will enable them to advise their patients appropriately.
+
+In view of this, the WHO/AFRO developed some generic training modules, guidelines and
+model protocols, with the aim of deepening understanding of both Traditional Medicine
+Practitioners and Conventional Medical Practitioners in key aspects of traditional medicine,
+especially herbal medicine. These tools included a training module on primary health care
+and malaria for conventional health practitioners and traditional health practitioners; and
+model protocols for priority diseases such as HIV/AIDS, sickle cell anaemia, diabetes and
+hypertension. PROMETRA International has also added to this repertoire of training tools
+and protocols.
+
+Using these materials, some institutions in Ghana, Kenya, Burkina Faso, Mali, Benin, Guinea
+and Nigeria have already conducted systematic research on traditional medicines used for
+the management of diseases such as malaria, hypertension, diabetes, sickle cell anaemia
+among others.
+
+However, to date there appears to be no reference document of African origin that provides
+basic information on the herbal treatment of the most common diseases that affect the
+populations.
+
+The development of this booklet is a modest attempt by the West African Health
+Organisation to address this need.
+
+Among other things, the booklet will serve as a useful source of information on the herbal
+treatment of these diseases for doctors, pharmacists, Traditional Medicine Practitioners,
+medical herbalists and students of African Traditional Medicine.
+
+Dr Johanna Austin Benjamin
+Director, Department of Primary Healthcare and Disease Contol
+
+----- PAGE 5 -----
+Preface
+
+Herbal medicines are assuming greater importance in the primary health care of many
+countries around the world, with an attendant increase in international trade. For example,
+between 2003-2004 annual revenues in Western Europe reached US$ 5 billion, whilst in
+China, sales of products totaled US$ 14 billion in 2005. Revenue from herbal medicines in
+Brazil amounted to US$ 160 million in 2007.
+
+Herbs are used to treat a wide variety of both acute and chronic conditions such as simple
+bruises, skin disorders, fever, malaria, hypertension, diabetes, sickle cell anaemia, sexual
+weakness, piles, and even for combating rapid development of AIDS in People Living With
+HIV.
+
+Apart from being used directly as therapeutic agents, medicinal plants are also important for
+pharmacological research and drug development, as they provide new leads for the
+synthesis of essential medicines.
+
+Herbs contain a multiplicity of related compounds that interact. For this reason, herbalists
+argue that the sum of the biological effects of these compounds is often greater than the so-
+called "major active ingredient", and that these families of compounds can act on several
+different targets simultaneously to give overall biological benefit. For example, the compound
+lycopene found in tomato is thought to be a potent antioxidant, but has also been found to
+have effects on prostate cells, on DNA and on cellular communication. However, research in
+experimental animals have shown that purified lycopene lacks the anti-prostate cancer
+activity characteristic of tomato paste, which contains the plant’s full complement of related
+phytochemicals including lycopene, phytoene, and phytofluene. Furthermore, it has been
+shown that the contributions of other analogues of the so-called active compound, or even
+unrelated compounds to the biologically effective dose, can minimize the risk of toxicity.
+
+In the light of the foregoing, vis-a-vis the current upsurge of interest in herbal preparations as
+alternatives to pharmaceuticals, it has become even more necessary for doctors and other
+health care professionals to understand the actions and indications of medicinal plants to
+ensure consumer safety. This is all the more pertinent given the erroneous view many
+people have of herbal medicines as being totally free of adverse effects because they are
+natural.
+
+This document, which has been prepared through a series of meetings of experts drawn from
+the ECOWAS sub-region and coordinated by the Programme Officer for Traditional
+Medicine, Dr Kofi Busia, outlines the causes, clinical features, methods of investigation and
+the the modern approach to treatment of some of the most common diseases that affect
+West Africans. Above all, information on the herbs used to treat the various diseases
+together with prevention and control measures is also provided.
+
+It is hoped that this booklet, together with others yet to be produced, will serve as a useful
+adjunt to the West African Herbal Pharmacopoeia.
+
+Dr Placido Cardoso
+Director General
+
+----- PAGE 6 -----
+List of Abbreviations
+
+ECOWAS
+
+WHO
+
+WAHO
+
+TMP
+
+PROMETRA
+
+WAHP
+
+Economic Community of West African States
+World Health Organisation
+
+West African Health Organisation
+
+Traditional Medicine Practitioner
+
+Promotion de la Médecine Traditionnelle
+
+West African Herbal Pharmacopoeia
+
+----- PAGE 7 -----
+Introduction
+
+According to the World Health Organization (WHO), nearly four billion people, 80% of the
+world's especially in Asia and Africa presently use herbal medicine for some aspect of
+primary health care.
+
+Interest in and usage of herbal preparations as alternatives to pharmaceuticals and the
+search for drugs and dietary supplements derived from plants have accelerated in recent
+years. Many of the pharmaceuticals currently available to physicians, such as opium, aspirin,
+digitalis, and quinine, are derived from herbal remedies. In fact, according to the World
+Health Organisation, approximately 25% of modern drugs used in the United States have
+been derived from plants.
+
+The rise in popularity of herbal medicine is also attributed to disenchantment with the cost,
+complexity and perceived limitations of modern medicine.
+
+Herbal remedies are available in many forms, such as teas, infusions, pills, powders,
+capsules, extracts, and syrups. Many can be bought over the counter. While complete safety
+and efficacy data for all herbal remedies are not available, many have been well established
+through historic use.
+
+This manual is brilliantly organized to serve as a “ready reference” on the most common
+diseases that affect West Africans and the available treatment methods (conventional and
+traditional).
+
+The information presented in the following pages has been obtained from extensive
+academic research of herbal literature that ranges from ancient herbal texts to modern
+phytopharmaceutical journals. Moreover, much of the language used throughout the text is in
+the vernacular of modern orthodox medicine and the diseases are outlined using
+conventional medical terminology, and the plants indicated for diseases have been listed as
+it is done in conventional medicine.
+
+However, it must be emphasized that in herbal medicine, disease is not seen as a separate
+entity and therefore is not treated as such. Herbs work to strengthen weakened body
+systems by stimulating the body's own innate, self healing mechanisms. Indeed, the best
+way to obtain the benefits of herbal medicine is to combine herbs with each other. Although a
+single herb such as echinacea can be helpful, the really dramatic results are obtained
+through the synergistic reaction that occurs when herbs are combined together.
+
+Thus, herbal treatment must be part of a multi-modal holistic programme that embodies a
+natural wholesome diet, ample exercise and rest, a positive attitude, fulfilling work, and a
+simple lifestyle. This combination will almost always have a favorable influence on one's
+health and often induces healing where modern medicine has failed.
+
+However, it must be understood that there can never be any guarantees that herbs will
+always help or heal every health problem for which they are indicated. There is no form of
+medicine, herbal or otherwise, that can make such a guarantee.
+
+Dr Kofi Busia
+
+Programme Officer, Traditional Medicine
+
+West African Health Organisation
+
+01 BP 153 Bobo Dioulasso 01, Burkina Faso
+
+Tel: (226) 20 97 57 75/20 97 01 00
+
+Cel: +226 76 74 62 89
+
+Fax: (226) 20 97 57 72
+
+Email: kbusia@wahooas.org/Kofi_busia@hotmail.com
+
+----- PAGE 8 -----
+N° 1: SICKLE CELL ANAEMIA
+
+1. Description
+
+Sickle cell anaemia (or anaemia, SCA) or “drepanocytosis” is caused by an inherited
+abnormal haemoglobin (an oxygen-carrying protein within the red blood cells). The abnormal
+haemoglobin causes distorted (sickled) red blood cells, which are fragile and prone to
+rupture. Decrease in the number of red blood cells from rupture (haemolysis), results in
+anemia. The irregular sickled cells can block blood vessels causing tissue and organ
+damage and pain.
+
+Sickle-cell disease occurs more commonly in people (or their descendants) from parts of
+tropical and sub-tropical regions where malaria is or was endemic. In these areas, carrying
+only a single sickle-cell gene (sickle cell trait) appears to confer immunity from malaria.
+Those with only one of the two alleles of the sickle-cell disease, while not totally resistant, are
+more tolerant to the infection and thus show less severe symptoms when infected.
+
+Nearly 120 million people worldwide are carriers. According to the WHO in the coming
+decades, the number of carriers of hemoglobin disorders would peak at around 8% of the
+world population. Approximately one fifth of those who have the disease may show
+symptoms. The incidence in Africa varies from 8-15%, sometimes 20 to 30%. Previously,
+patients had shortened life expectancy. For example in 1994, in the US, the average life
+expectancy of persons with this condition was estimated to be 42 years in males and 48
+years in females, but today, due to improved diagnostic methods and better management of
+the disease, patients can live into their 50s or beyond.
+
+2. Causes
+
+Sickle cell anaemia is inherited as an autosomal (i.e. the gene is not linked to a sex
+chromosome) recessive condition, which is passed from parent to child. The inheritance of
+just one sickle gene is called sickle cell trait or the "carrier" state. Sickle cell trait does not
+cause sickle cell anemia. Persons with sickle cell trait usually do not have many symptoms of
+disease and have normal hospitalization rates and life expectancies. In order for sickle cell
+anaemia to occur, a sickle cell gene must be inherited from both the mother and the father,
+so that the child has two sickle cell genes. The offspring of two carriers of sickle cell trait, a
+one in four chance of having sickle cell anemia. (In some parts of Africa, one in five persons
+is a carrier for sickle cell trait.) This is why some communities discourage marriages between
+two people with the disease or trait.
+
+The sickling is promoted by conditions which are associated with low oxygen levels, cold,
+humidity, increased acidity, or low volume (dehydration) of the blood. These conditions can
+occur as a result of injury to the body's tissues, dehydrating states, or anesthesia.When not
+receiving enough oxygen, red blood cells become sickle-shaped and grows, and can not
+easily pass through small capillaries that are in the body, causing pain.
+
+3. Signs and symptoms
+
+Virtually all of the major symptoms of sickle cell anemia are the direct result of the
+abnormally shaped, sickled red blood cells blocking the flow of blood that circulates through
+the tissues of the body. The tissues with impaired circulation suffer damage from lack of
+oxygen. Damage to tissues and organs of the body can cause severe disability in patients
+with sickle cell anemia. The patients endure episodes of intermittent "crises" of variable
+frequency and severity, depending on the degree of organ involvement.
+
+Some features of sickle cell anemia, such as fatigue, anaemia, pain crises, and bone infarcts
+can occur at any age. Many features typically occur in certain age groups.
+
+Sickle cell anemia usually first presents symptoms in the first year of life. Infants and younger
+children can suffer with fever, abdominal pain, pneumococcal bacterial infections, painful
+swellings of the hands and feet (dactylitis), and splenic sequestration. Adolescents and
+young adults more commonly develop leg ulcers, aseptic necrosis, and eye damage.
+
+----- PAGE 9 -----
+Symptoms in adult typically are intermittent pain episodes due to injury of bone, muscle, or
+internal organs.
+
+Complications of sickle cell disease are: priapism leading to impotence, circulatory collapse
+and stroke.
+
+4. Investigations
+
+Sickle cell anemia is suggested when the abnormal sickle-shaped cells in the blood are
+identified under a microscope. In industrialized countries, the diagnosis is made in the
+neonatal period when parents are at risk or afflicted. In non-industrialized countries, the
+diagnosis is often the first manifestation or complication.
+
+Apart from the findings common to all hemolytic anemias, diagnosis relies on the detection of
+hemoglobin S. This can be done:
+
+- Observation under a microscope of a smear of blood using a special low-oxygen
+preparation, called sickle prep. Other prep tests can also be used to detect the
+abnormal hemoglobin S, including solubility tests performed on tubes of blood
+solutions.
+
+By haemoglobin electrophoresis test of the hemolysate of red blood cells which show, in the
+homozygote, a single band of hemoglobin migrating abnormally slowly, and in the
+heterozygous presence of two bands of hemoglobin, which is the fastest hemoglobin A and
+the other hemoglobin S. Prenatal diagnosis (before birth) of sickle cell anemia is possible
+using amniocentesis or chorionic villus sampling. The sample obtained is then tested for
+DNA analysis of the fetal cells.
+
+5. Treatment
+5.1. Modern
+
+The treatment of sickle cell anemia is designed according to which of the individual features
+of the illness are present. In general treatment is directed at the management and prevention
+of the acute manifestations as well as therapies directed toward blocking the red blood cells
+from stacking together. There is no single remedy to reverse the anemia. It is, therefore,
+important that family members have an optimal understanding of the illness and that
+communication with the doctors and medical personnel be maintained.
+
+Treatment of sickle cell anaemia is based on:
+- Treatment of vaso-occlusive crisis: painkillers and oxygen therapy;
+- Prevention of the triggers of the crisis (cold, altitude, infections, dehydration);
+- Folate supplementation;
+- Preventive treatment of meningococcal and pneumococcal infections;
+- Blood transfusion in cases of severe anaemia or severe infection.
+
+Hydroxyurea is a medication that is currently being used in adults and children with severe
+pain from sickle cell anemia. It acts by increasing the amount of fetal haemoglobin (a form of
+haemoglobin resistant to sickling of the red blood cells) in the blood. This drug appears to
+significantly reduce the number of painful crises and mortality of the disease. However, its
+effect is variable and unpredictable from patient to patient. Hydroxyurea can be toxic to the
+bone marrow. The other obstacle to its use is its cost.
+
+5.2. Herball treatment
+
+Treatment may be beneficial through: education, empowerment, symptomatic pain
+management, use of medicinal plants such as Zanthoxylum zanthoxyloides, Calotropis
+procera, Khaya senegalensis, Sorghum bicolor and Carica papaya.
+
+6. Prevention and control
+
+Prevention of pneumococcal infections in young children is by vaccination. Blood
+transfusions could significantly reduce the risk of vascular-cerebral accidents in some
+
+----- PAGE 10 -----
+children particularly at risk. To avoid attacks, it is recommended to follow the following simple
+steps:
+
+Drink water frequently;
+
+Sleep in or use well-ventilated rooms
+
+Maintain stable weigh
+
+Keep warm
+
+Eat foods rich in iron, or facilitate iron absorption (red meat, liver pate ...)
+
+Avoid cold environments and respiratory infections;
+
+Wear loose clothing;
+
+Avoid extreme heat (dehydration triggers crises by increasing blood viscosity).
+
+7. Références
+
+Health Encyclopedia - Diseases and Conditions.
+http://www. healthscout.com/nav/ency/1/main.html
+http://www.medicinenet.com/sickle_cell/article.htm
+
+----- PAGE 11 -----
+N° 2: HIV/AIDS
+
+1. Description
+
+HIV (human immunodeficiency virus) is the cause of AIDS (acquired immunodeficiency
+syndrome). HIV is a type of virus called a retrovirus, which infects humans when it comes
+into contact with a break in the skin or tissues such as those that line the vagina, anal area,
+mouth, or eyes or through a break in the skin.
+
+All countries of the world are affected by the disease, but Sub-Saharan Africa is by far the
+worst affected region. According to the World Bank, in 2008, more than five million adults
+and children were infected with HIV. In Céte d'Ivoire, the prevalence is 4.7%, Ghana 2.2%,
+rising 1.8% in Burkina Faso. In Benin, the Gambia, Guinea, Guinea-Bissau, Liberia, Mali,
+Nigeria, Sierra Leone and Togo, the prevalence rate is between 1.2% and 1.5%, while the
+prevalence rate according to the Centers ANC is between 2.8% and 6.7%. Senegal, Niger
+and Cape Verde have a prevalence of less than 1%. The available data is much more
+"mixed" and complex. AIDS is the final stage of infection with HIV. An AIDS patient
+necessarily has HIV infection, while all people infected with HIV do not necessarily have
+developed AIDS.
+
+Generally, three stages of HIV infection are described:
+
+Initial stage (primary infection): occurs within weeks of acquiring the virus; often
+characterized by a flu- or mono-like illness that generally resolves within weeks.
+
+Stage of chronic asymptomatic infection: a long duration of infection without symptoms,
+which lasts an average of 8-10 years.
+
+Stage of symptomatic infection: the body's immune (or defence) system has been
+suppressed and complications have developed, i.e. acquired immunodeficiency syndrome
+(AIDS). The symptoms are caused by the complications of AIDS, which include one or more
+unusual infections ("opportunistic infections") or cancers, severe loss of weight, and
+intellectual deterioration (called dementia).
+
+2. Causes
+
+HIV is present to variable degrees in the blood and genital secretions of virtually all
+individuals infected with HIV, regardless of whether or not they have symptoms. The spread
+of HIV can occur when these secretions come in contact with tissues such as those lining the
+vagina, anal area, mouth, eyes (the mucus membranes), or with a break in the skin, such as
+from a cut or puncture by a needle. The most common ways in which HIV is spreading
+throughout the world include sexual contact, sharing needles, and by transmission from
+infected mothers to their newborns during pregnancy, labour (the delivery process), or
+breastfeeding.
+
+3. Signs and symptoms
+
+Rarely, some individuals develop complications of HIV that define AIDS within one year,
+while others remain completely asymptomatic after as many as 20 years from the time of
+infection. However, in the absence of antiretroviral therapy, the time for progression from
+initial infection to AIDS is approximately eight to10 years.
+
+Within weeks of infection, many people will develop the varied symptoms of primary or acute
+infection, which typically has been described as a "mononucleosis" or "influenza"-like illness
+but can range from minimal fever, aches and pains to very severe symptoms. The most
+common symptoms of primary HIV infection are
+
+e fever,
+
+e aching muscles and joints,
+
+e sore throat,
+
+e swollen glands (lymph nodes) in the neck
+
+Shortly after primary infection, most individuals enter a period of many years where they
+have no symptoms at all. During this time, CD4 cells may gradually decline, and with this
+decline in the immune system, patients may develop the mild symptoms of HIV such as
+vaginal or oral candidiasis thrush (a fungal infection), fungal infections of the nails, a white
+
+10
+
+----- PAGE 12 -----
+brush-like border on the sides of tongue called hairy leukoplakia, chronic rashes, diarrhoea,
+fatigue, and weight loss. With a further decline in function of the immune system, patients are
+at increasing risk of developing more severe complications of HIV, including many more
+serious infections (opportunistic infections), malignancies, severe weight loss, and decline in
+mental function.
+
+4. Investigations
+e ELISA for HIV antibodies-confirmed by a Western blot tes
+e Tests can be done for these same antibodies in saliva, some providing results within
+one to 20 minutes of testing
+
+HIV antibodies usually develop within several weeks of infection. During this period, patients
+may have symptoms of primary HIV infection, but will test negative by the standard testing
+methods ("window period"). For the avoidance of doubt, a test that specifically detects the
+presence of virus in the blood rather than the antibodies (e.g. tests for HIV RNA or p24
+antigen) or a test that measures both HIV antibodies and p24 antigen, reducing the duration
+of the window period from infection to diagnosis. Identifying and diagnosing individuals with
+primary infection is important for early care and counseling and prevention of transmission to
+others.
+
+5. Treatment
+
+e When HIV grows (that is, by reproducing itself), it acquires the ability to change
+(mutate) its own structure. This mutation enables the virus to become resistant to
+previously effective drug therapy.
+
+e The goals of drug therapy are to prevent damage to the immune system by the HIV
+virus and to halt or delay the progress of the infection to symptomatic disease.
+
+e Therapy for HIV includes combinations of drugs that decrease the growth of the virus
+to such an extent that the treatment prevents or markedly delays the development of
+viral resistance to the drugs.
+
+The best combination of drugs for HIV has not yet been defined, but one of the most
+important factors is that the combination be well tolerated so that it can be followed
+consistently without missing doses.
+
+It is important to note that with effective antiretroviral therapy many of the signs and
+symptoms of HIV as well as severity of immunosuppression can be completely reversed,
+restoring even the most symptomatic patients to a state of excellent health.
+
+5.1. Modern treatment
+
+Management of HIV/AIDS is primarily assumed by practitioners of conventional medicine
+including diagnosis, treatment with anti-retroviral (ARV) drugs, biological monitoring and
+prevention.
+
+5.2. Herbal treatment
+
+Many patients use herbal therapy to treat HIV/AIDS symptoms. These resources, however,
+remain poorly explored and exploited. Although many traditional healers consider themselves
+able to treat HIV / AIDS, the evidence is insufficient. Among the most commonly used herbs
+are: Zanthoxylum xanthoxyloides (root bark); Guiera senegalensis (leaves); Moringa oleifera
+(leaves); Spirulina platensis; Adansonia digitata (stem bark); Momordica charantia (leaves);
+Phyllanthus niruri (leaves); Alstonia boonei (stem bark) and Allium sativum (bulb).
+
+6. Prevention and control
+
+In Africa, five main sources for the spread of HIV have been noted:
+e Multiplicity of sexual partners/infidelity;
+e Poor perception of risk and denial of AIDS;
+e The socio-economic subordination of women;
+e Poverty;
+e Prostitution
+
+Other determinants that play a role in the spread of HIV are:
+11
+
+----- PAGE 13 -----
+Degeneration of moral and social values
+Illiteracy
+
+Refusal to use condoms
+
+Migration
+
+Early sexual activity of girls with older partners
+Prevalence of STls
+
+Stigmatization of PLWHA
+
+Lack of support for PLHHA
+
+7. References
+
+République du Bénin (2007) : Manuel de formation des praticiens de la médecine
+traditionnelle sur la prise en charge des IST et du VIH/sida, Cotonou.
+
+Banque Mondiale (2008) : Synthése de la réponse et épidémiologie du VIH/sida en
+Afrique de l’ouest: implications pour la prévention, Programme mondial de lutte
+contre le VIH/sida de la Banque mondiale.
+
+ONUSIDA (2006) : Rapport sur Il’épidémie mondiale de Sida : profils de pays.
+
+12
+
+----- PAGE 14 -----
+N° 3: TUBERCULOSIS
+
+1. Description
+
+Tuberculosis (TB) is an infectious, transmissible disease, caused by Mycobacterium
+tuberculosis. |t is the third leading cause of death from infectious disease worldwide,
+affecting mostly people living in poor conditions, particularly in sub-Saharan Africa. Over 8
+million new cases of TB occur each year worldwide. The incidence of the disease is very
+high in Africa, with almost 13% against less than 1% in Asian countries. It is common among
+intravenous drug users and HIV patients. TB can affect anyone, but the most susceptible
+groups are people, who live with individuals with an active TB infection, poor or homeless
+people, nationals from countries that have a high prevalence of TB, nursing-home residents
+and prison inmates, alcoholics, and intravenous drug users, diabetics, certain cancers, and
+HIV infection and health-care workers. Because of the frequent occurrence of relapses
+(emergence of multidrug-resistance) and the fact that it is one of the opportunistic infections
+of HIV/AIDS, pulmonary tuberculosis remains a public health concern in Africa and is
+responsible for many deaths.
+
+2. Causes
+
+TB is most often caused by a germ called Mycobacterium tuberculosis or Mycobcaterium
+Koch (BK). Tuberculosis is spread (transmitted). Human transmission is primarily from
+person to person by inhaling infected air during close contact. The bacteria get into the air
+when an infected person coughs, sneezes, shouts or spits. Thus, TB cannot be contrated by
+just touching the clothes or shaking the hands of someone who is infected. When the inhaled
+tuberculosis bacteria enter the lungs, they can reproduce and cause a local lung infection
+(pneumonia). This may then provoke an enlargement of the local lymph nodes associated
+with the lungs are even those adjacent to the heart in the central part of the chest. TB can
+also spread to other parts of the body. There is also a form of atypical tuberculosis, caused
+by the bacteria Mycobacterium bovis that is transmitted by drinking unpasteurized milk. It
+used to be a major cause of TB in children, but it rarely causes TB now with the introduction
+of pasteurized. Other forms of TB causatives agents are Mycobacterium africanum and
+Mycobacterium canetti (mainly in Djibouti).
+
+3. Signs and symptoms
+
+TB can remain in an inactive (dormant) state for years without causing symptoms or
+spreading to other people. The most common symptoms are generalized tiredness or
+weakness, fever, weight loss, coughing, and night sweats, but in general the disease
+progresses in two phases:
+
+e A phase marked by early signs of tuberculosis comprising of a fever in the evening,
+wasting (weight loss more than 10 kg), asthenia (fatigue), anorexia (lack of appetite),
+amenorrhoea (absence of menstruation) in women, night sweats, etc.
+
+e A phase state where cough is the main sign- chronic cough of more than three weeks
+with muco-purulent, blood-stained sputum or chest pain and shortness of breath,
+combined with the early signs of TB.
+
+4. Investigations
+
+The diagnosis of TB involves skin tests, chest X-rays, sputum analysis (smear and culture),
+and PCR tests to detect the genetic material of the causative bacteria.
+
+5. Treatment
+
+5.1. Modern
+
+The body's immune system is capable of fighting off the infection and stopping the spread of
+the bacteria. However, when the immune system of a patient with dormant TB is weakened,
+the TB can become active and cause infection in the lungs or other parts of the body.
+e Inactive TB-treated with an antibiotic, isoniazid (INH), to prevent the infection from
+becoming active
+
+13
+
+----- PAGE 15 -----
+Active TB-treated with INH in combination with one or more of several drugs,
+including rifampin (Rifadin), ethambutol (Myambutol), pyrazinamide, and
+streptomycin.
+
+Poor patient compliance, lack of detection of resistant strains, and unavailable
+therapy are key reasons for the development of drug-resistant TB.
+
+5.2. Herbal treatment
+
+The most commonly used herbs for the treatment of TB include: Albizia lebbeck (stem bark);
+Cassia sieberiana (stem bark); Zanthoxylum xanthoxyloides (stem bark)
+
+6. Prevention and control
+
+Bacille Calmette Guérin (BCG), derived from an atypical Mycobacterium, but offers some
+protection from developing active tuberculosis, is a vaccine given throughout many parts of
+the world, especially in infants and children.
+
+Other preventative measures include:
+
+Referrals to speciaist/TB clinics to avoid spread of the disease
+
+Cover mouth and nose with a tissue when coughing,
+
+Avoid spitting
+
+Spit in a box with a lid containing bleach
+
+Empty the contents every night in the toilet
+
+Do not use the other covered during the treatment
+
+Sleep alone if possible during the first month of treatment in a well ventilated room
+Do not consume alcohol or tobacco
+
+7. References
+
+Tuberculose, Wikipédia
+
+Guide de formation des ASC sur la prise en charge de la tuberculose, PNLT, Céte
+d'Ivoire
+
+Méthode FAPEG, PROMETRA
+
+Health Encyclopedia - Diseases and Conditions.
+
+http://www. healthscout.com/nav/ency/1/main.html
+
+14
+
+----- PAGE 16 -----
+N° 4: MALARIA
+
+1. Description
+
+Malaria is an infectious disease caused by the Plasmodium parasite, which infects red blood
+cells. The term "mal aria" (meaning "bad air" in Italian) was first coined in 1740 by H. Walpole
+when describing the disease, and was shortened to "malaria" in the 20th century. Malaria
+can be life-threatening, and is usually characterized by cycles of chills, fever, pain, and
+sweating. Currently, about 2 million deaths per year worldwide are due to Plasmodium
+infections. The majority occur in children under 5 years of age in sub-Saharan African
+countries. There are about 400 million new cases per year worldwide. Plasmodium is
+transmitted to humans by the bite of the female Anopheles mosquito. Mosquitoes breed in
+stagnant water.
+
+2. Causes
+
+Four common species of the parasite cause malaria, but the most serious type is
+Plasmodium falciparum, which causes 80% of cases and 90% of deaths. However, another
+relatively new species, Plasmodium knowlesi, is also dangerous and is typically found only in
+long-tailed and pigtail macaque monkeys. The other three common species of malaria (P.
+vivax, P. malariae, and P. ovale) are generally less serious and are usually not life-
+threatening.
+
+3. Signs and symptoms
+
+The symptoms characteristic of malaria include:
+
+e Flulike illness with cycles of chills, fever, and sweating that repeat every one, two, or
+three days
+
+e Muscle ache ; headache ; nausea, repeated vomiting
+
+e Lack of appetite, coughing, diarrhoea and yellowing (jaundice) of the skin and whites
+of the eyes due to destruction of red blood cells and liver cells
+
+e Inability to drink or breastfeed
+
+e Convulsions, lethargy, severe pallor, difficulty breathing
+
+e Dark coloured urine
+
+People with severe P. falciparum malaria can develop bleeding problems, shock, liver or
+kidney failure, central nervous system problems, coma, and can die from the infection or its
+complications. Cerebral malaria (coma, or altered mental status or seizures) can occur with
+severe P. falciparum infection. It is life-threatening if not treated quickly; even with treatment,
+about 15%-20% die.
+
+4. Investigations
+
+e Blood smear on a microscope slide that is stained (Giemsa stain) to show the
+parasites inside red blood cells-classic and most used diagnostic test
+
+e Other tests based on immunologic principles exist; including RDTs (rapid diagnostic
+tests) and polymerase chain reaction (PCR) tests
+
+e Detailed consultation to elicit onset the first signs, progression of the signs and
+treatments received (including traditional)
+
+e Physical examination for the following: temperature, weight, height and blood
+pressure for adults.
+
+5. Treatment
+5.1. Modern
+
+Three main factors determine treatments: the infecting species of Plasmodium parasite, the
+clinical situation of the patient (e.g. adult, child, or pregnant female with either mild or severe
+malaria), and the drug susceptibility of the infecting parasites (different areas of the world
+have malaria types that are resistant to certain medications)
+e Chloroquine phosphate (Aralen) is the drug of choice for all malarial parasites except
+for chloroquine-resistant Plasmodium strains
+
+15
+
+----- PAGE 17 -----
+Multiple drug-treatment protocols for treatment of drug-resistant Plasmodium strains
+(for example, quinine sulfate plus doxycycline [Vibramycin, Oracea, Adoxa, Atridox] or
+tetracycline [Achromycin], or clindamycin [Cleocin], or atovaquone-proguanil
+[Malarone])
+
+The WHO's treatment policy, recently established in 2006, is to treat all cases of
+uncomplicated P. falciparum malaria with artemisinin-derived combination therapy
+(ACTs). ACTs are drug combinations (for example, artesunate-amodiaquine,
+artesunate-mefloquine, artesunate-pyronaridine, dihydroartemisinin-piperaquine, and
+chlorproguanil-dapsoneartesunate) used to treat drug-resistant P. falciparum.
+Unfortunately, as of 2009, a number of P. falciparum-infected individuals have
+parasites resistant to ACT drugs.
+
+5.2. Herbal treatment
+
+In many countries category | and II herbal medicines are approved and even on the list of
+essential medicines for the treatment of uncomplicated malaria. Some of the plants
+commonly used in the preparation of these medicines are part of the WAHO monographs:
+Moringa lucida (stem bark), Guiera senegalensis, Senna occidentalis (leaves), Tinospora
+baki, Combretum micranthum, Khaya senegalensis (inner bark), Carica papaya, Cryssopterix
+febrifuga; Cryptolepis sanguinolenta (root); Moringa oleifera (leaves); Cymbopogon citratus
+(leaves); Cassia alata (leaves); Psidium guajava (leaves)
+
+6. Prevention and control
+
+The goals of prevention are:
+
+Avoid contact with mosquitoes. Thus the use of nets designed to repel or kill
+mosquitoes and;
+
+Prevent mosquito breeding in the immediate environment
+
+Reduce the susceptibility of vulnerable people being infected by mosquitoes
+
+Avoid traveling in areas of known malaria outbreaks
+
+Wear appropriate clothing: travelers can minimize areas of exposed skin by wearing
+long-sleeved shirts, long pants, boots, and hats. Tucking in shirts and wearing socks
+and closed shoes instead of sandals may reduce risk.
+
+Insecticides: aerosol insecticides, vaporizing mats, and mosquito coils can help to
+clear rooms or areas of mosquitoes; however, some products available internationally
+may contain pesticides that are not registered in the United States. Insecticides
+should always be used with caution, avoiding direct inhalation of spray or smoke.
+Apply repellents (containing up to 50% DEET (N,N-diethyl-m-toluamide) to clothing
+and gear
+
+7. References
+
+Health Encyclopedia - Diseases and Conditions.
+http://www.healthscout.com/nav/ency/1/main.html
+
+16
+
+----- PAGE 18 -----
+N° 5: DIABETES
+
+1. Description
+
+Diabetes is a chronic condition characterized by persistent high levels of sugar (glucose) in
+the blood. It is caused by multiple genetic and environmental factors that result from defects
+in insulin secretion, or its action or both. Insulin lowers the blood glucose level. As a result,
+absence or insufficient production of insulin causes diabetes. Elevated levels of blood
+glucose (hyperglycaemia) lead to spillage of glucose into the urine, hence the term “sweet
+urine”. According to the World Health Organization, an estimated seven million Africans
+suffer from the disease, which is now ranked as the fourth leading cause of death in most
+developing countries.
+
+The two types of diabetes are referred to as type 1 and type 2. Former names for these
+conditions were insulin-dependent and non-insulin-dependent diabetes, or juvenile onset and
+adult onset diabetes. Type II Diabetes is increasing and is a major public health concern. It is
+increasing in line with increasing life expectancy, urbanization, sedentary lifestyle and obesity
+development.
+
+2. Causes
+
+Diabetes is due to insufficient or total lack and/or dysfunction of insulin in the blood. Three
+common forms of diabetes are known:
+
+* Type 1 diabetes (formerly called insulin-dependent diabetes mellitus): juvenile onset;
+
+* Type 2 diabetes (formerly called non-insulin diabetes dependent): onset in adulthood;
+
+* Gestational diabetes (diabetes that occurs during pregnancy in cases before non-
+diabetics)
+
+3. Signs and symptoms
+Symptoms of diabetes include increased urine output, thirst, hunger, and fatigue.
+
+The number of people seeking medical care for diabetes is increasing in Africa at a time
+when health experts are overloaded, health care systems are ill-equipped to diagnose the
+disease and the majority of the poor cannot afford the cost of treatment. Many patients with
+diabetes have no symptoms. Their diabetes is only detected by the test. Patients may
+present with the following symptoms:
+
+e Polyuria (passing large amounts of urine);
+
+e Polydipsia (thirst and excessive consumption of alcohol and water)
+
+e Polyphagia
+e Recurrent boils
+e Pruritus vulvae
+e Nocturia
+
+The risk factors are: sedentary lifestyle, obesity, genetic factors/family history, pregnancy,
+hypertension, drug therapy - hormonal/contraceptive, diet, age, etc.
+
+Complications
+
+The major complications of diabetes are both acute and chronic.
+
+e Acute complications: dangerously elevated blood sugar (hyperglycemia), abnormally
+low blood sugar (hypoglycemia) due to diabetes medications leading to dizziness,
+confusion, weakness and tremors; severe nausea, vomiting, abdominal pain, diabetic
+ketoacidosis leading to shock, coma, or death. Abnormally low blood sugar due to
+excessive levels of insulin or other hypoglycemic drugs causes
+
+e Chronic complications: disease of the blood vessels (both small and large) which can
+damage the feet, eyes, kidneys, nerves, and heart (e.g. impotence, foot
+gangrene/ulcer, poor vision, heart attack, infertility, obese children, miscarriages,
+kidney failure).
+
+Over time, diabetes can lead to blindness, kidney failure, and nerve damage. These types of
+damage are the result of damage to small vessels, referred to as microvascular disease.
+
+17
+
+----- PAGE 19 -----
+Diabetes is also an important factor in accelerating the hardening and narrowing of the
+arteries (atherosclerosis), leading to strokes, coronary heart disease, and other large blood
+vessel diseases. This is referred to as macrovascular disease.
+
+4. Investigations
+
+a) Fasting blood glucose (sugar) test- preferred way to diagnose diabetes; easy to
+perform and convenient. After the person has fasted overnight (at least 8 hours), a single
+sample of blood is drawn and sent to the laboratory for analysis.
+
+e Normal fasting plasma glucose levels are less than 100 milligrams per deciliter
+(mg/dl).
+
+e Fasting plasma glucose levels of more than 126 mg/dl on two or more tests on
+different days indicate diabetes.
+
+e A random blood glucose test can also be used to diagnose diabetes. A blood
+glucose level of 200 mg/dl or higher indicates diabetes.
+
+b) Oral glucose tolerance test (OGTT)- though not routinely used anymore, it is a gold
+standard for making the diagnosis of type 2 diabetes and also gestational diabetes and in
+conditions of pre-diabetes, such as polycystic ovary syndrome. Glucose tolerance tests
+may lead to one of the following diagnoses:
+
+e Normal response: A person is said to have a normal response when the 2-hour
+glucose level is less than 140 mg/dl, and all values between 0 and 2 hours are less
+than 200 mg/dl.
+
+e Impaired glucose tolerance: A person is said to have impaired glucose tolerance
+when the fasting plasma glucose is less than 126 mg/dl and the 2-hour glucose level
+is between 140 and 199 mg/dl.
+
+e Diabetes: A person has diabetes when two diagnostic tests done on different days
+show that the blood glucose level is high.
+
+e Gestational diabetes: A pregnant woman has gestational diabetes when she has
+any two of the following:, a fasting plasma glucose of 92 mg/dl or more, a 1-hour
+glucose level of 180 mg/dl or more, or a 2-hour glucose level of 153 mg/dl, or more.
+
+5. Treatment
+
+An important goal of diabetes treatment is to keep the blood glucose levels near the normal
+range of 70-120 mg/dl before meals and under 140 mg/dl at two hours after eating. Diabetes
+treatment depends on the type and severity of the diabetes. Type 1 diabetes is treated with
+insulin, exercise, and a diabetic diet. Type 2 diabetes is first treated with weight reduction, a
+diabetic diet, and exercise. When these measures fail to control the elevated blood sugars,
+oral medications are used. If oral medications are still insufficient, insulin medications and
+other injectable medications are considered.
+
+5.1. Modern
+
+Non-pharmacological: in patients with type 2 diabetes, diet should be tried first.
+
+Diet: all patients with diabetes need diet therapy. In general, patients should avoid soft
+drinks, alcohol, tobacco, dates, sugar cane, pineapple, plantain, condensed milk, pastries,
+croissants, ice cream, honey, etc.. Feeding a day should consist of carbohydrates (60%),
+protein (15%) and fat (25%), mainly of plant origin.
+
+Exercise: do simple exercises (walking 45 minutes to an hour per day) is useful to ensure
+good glycaemic control. Any advice on exercise should take into account the patient's age
+and the presence of complications and other medical conditions.
+
+18
+
+----- PAGE 20 -----
+5.2. Herbal treatment
+
+Mangifera indica, Momodica charantia, Psidium guajava, Anthocleista nobilis, Desmodium
+adscendens, Vernonia amygdalina, Lippia multiflora, Nauclea latifolia, Tetrapleura
+tetraptera, Catharantus roseus, Bridelia ferruginea, Sclerocarya birrea, Moringa oleifera,
+etc.
+
+6. Prevention and control
+
+Preventative measures will help prevent the chronic complications of diabetes.
+
+e Maintain a steady weight-get as close to your ideal weight as possible; more than 80
+percent of people with type 2 diabetes are overweight.
+
+e Undertake regular exercise in your schedule-working out regularly, at least four hours
+a week, can significantly lower your risk for diabetes.
+
+e Avoid diets high in saturated fat (animal products)-can raise the LDL (bad) levels of
+cholesterol in your body
+
+e Don't overeat on a regular basis
+
+e Increase intake of fiber
+
+7. References
+
+Health Encyclopedia - Diseases and Conditions.
+http://www.healthscout.com/nav/ency/1/main.html
+
+19
+
+----- PAGE 21 -----
+N° 6: ARTERIAL HYPERTENSION
+
+1. Description
+
+Hypertension is a condition in which the blood pressure of an adult aged 18 or over is
+consistently higher than 140/90 mm Hg in a non-diabetic, or above 130/80 mm Hg in a
+diabetic. Hypertension leads to an increased risk of damage to blood vessels in the eye,
+thickening of the heart muscle and heart attacks, hardening of the arteries (arteriosclerosis),
+kidney failure, and strokes and early death, if it is not properly controlled. Once the diagnosis
+of hypertension is made, the individual must be monitored regularly and treated for life. In
+Africa, hypertension is a public health problem with an average incidence of 15 to 40%. The
+average incidence of hypertension in West Africa is 16% in adults, ranging from 3 to 30%,
+from rural to urban areas. In Ghana, it is 4.5% in rural and 13% in urban areas. In Guinea,
+the prevalence is 43.6% in urban and 14.9% in rural areas, whilst in Senegal it is 25% and
+23.7% in rural Mali. High blood pressure is called "the silent killer" because it often causes no
+symptoms for many years, even decades, until it finally damages certain critical organs.
+High blood pressure in pregnancy can lead to preeclampsia or eclampsia (toxemia of
+pregnancy). Pregnant women should be monitored closely by their obstetrician for
+complications of high blood pressure.
+
+2. Causes
+
+Genetic factors (approximately 30%) are thought to play a prominent role in the development
+of essential hypertension.
+
+Risk factors are increasing age, family history, obesity, excessive alcohol consumption,
+smoking, type 1 or type 2 diabetes, kidney disease, sedentary lifestyle/lack of exercise,
+steroids/contraceptives, etc. High salt intake, obesity, lack of regular exercise, excessive
+alcohol or coffee intake, and smoking may all adversely affect the health of an individual with
+high blood pressure
+
+3. Signs and symptoms
+
+Most patients with uncomplicated hypertension may have no symptoms. Some people with
+uncomplicated hypertension, however, may experience symptoms such as headache (which
+do not respond to analgesics), tinnitus, palpitation, dizziness, shortness of breath, and
+blurred vision usually with blood pressure that is very high. About 1% of people with
+hypertension is diagnosed with severe high blood pressure (accelerated or malignant
+hypertension) at their first visit to the doctor. In these patients, the diastolic blood pressure
+exceeds 140 mm Hg. Affected persons often experience severe headache, nausea, visual
+symptoms, dizziness, and sometimes kidney failure. Malignant hypertension is a medical
+emergency and requires urgent treatment to prevent a stroke (brain damage).
+
+Complications are: atherosclerosis (narrowing of the arteries), stroke (bleeding or blood clot
+in the brain), aneurysm (dangerous extension of the main artery or in the chest or abdomen,
+which weakens and can break) heart attack, heart failure (reduced pumping capacity - pedal
+edema), renal failure - periorbital edema, eye injuries, etc.
+
+4. Investigations
+
+Measurement of blood pressure.
+
+5. Treatment
+
+Most antihypertensive medications can be used alone or in combination. Some are used only
+in combination. Some are preferred over others in certain specific medical situations. And
+some are not to be used (contraindicated) in other situations.
+e Several classes of antihypertensive medications are available, including ACE
+inhibitors, ARB drugs, beta-blockers, diuretics, calcium channel blockers, alpha-
+blockers, and peripheral vasodilators.
+
+20
+
+----- PAGE 22 -----
+e The goal of therapy for hypertension is to bring the blood pressure down below
+140/85 in the general population and to even lower levels in diabetics, African
+Americans, and people with certain chronic kidney diseases.
+
+5.1. Modern
+
+Lifestyle changes in diet and exercise and compliance with medication regimes contribute
+significantly to the reduction of blood pressure: low salt intake, low fat intake, weight
+reduction in obese and overweight people, regular exercise among sedentary patients,
+reducing alcohol consumption and smoking, stress management. These lifestyle changes
+must be pursued even when treatment is completed.
+
+5.2. Herbal treatment
+
+Common plants used are: Rauwolfia vomitoria, Bridelia feruginea, Ceiba pentandra, Allium
+sativum, Persia americana, Lippia multiflora, Taraxacum officinalis, Cassia occidentalis,
+Desmodium adscendens
+
+6. Prevention and control
+
+Prevention and control measures should aim at:
+e Recognizing the signs and symptoms of hypertension;
+Identifying the two forms of hypertension;
+Recognizing the complications of hypertension;
+Recognizing the relationship between hypertension, diabetes and
+hypercholesterolemia.
+
+Each middle-aged person of over 40 years should know his/her height, weight, blood
+pressure, blood sugar and cholesterol. They should also make regular blood pressure tests if
+there is a familial tendency to hypertension. In this way, treatment can be started before any
+complications.
+Adjustments in the following lifestyle habits are necessary:
+
+e Lose weight
+Exercise regularly
+Reduce alcohol consumption
+Adopt a balanced diet
+Reduce stress by trying different relaxation techniques, or avoid stressful situations.
+
+7. Reference
+
+Health Encyclopedia - Diseases and Conditions
+http://www.healthscout.com/nav/ency/1/main.html
+
+21
+
+----- PAGE 23 -----
+N° 7: ASTHMA
+
+1. Description
+
+Asthma is a chronic disease characterized by inflammation of the bronchial tubes (airways)
+that causes swelling and narrowing (constriction) of the airways. The result is difficulty
+breathing. Asthma attacks may be interspersed with periods where breathing is normal. In
+some people, however, asthma may induce permanent respiratory discomfort that interferes
+with daily activities. In sensitive individuals, the bronchial tubes are more likely to swell and
+constrict when exposed to triggers such as allergens, tobacco smoke, or exercise.
+
+2. Causes
+
+The causes of asthma are not well known, although both genetic and environmental factors
+
+are thought to be implicated. The following factors may contribute to trigger an asthma attack
+
+or aggravate respiratory problems, but they are not the cause of asthma. The risk factors are:
+
+Airborne allergens (dust, pollen, pet dander, dust mites)
+
+Air pollutants (irritants in the workplace, fire smoke, exhaust fumes, air pollution, etc.)
+
+Tobacco smoke
+
+Foods (food allergies) or food additives
+
+Certain drugs (aspirin and other nonsteroidal anti-inflammatory drugs, beta-blockers
+
+used for heart problems or high blood pressure)
+
+e Respiratory infections (colds, bronchitis, sinusitis, etc.). Because they cause
+inflammation
+
+e Exercise, especially if practiced outside in winter, cold weather and dry
+
+e Strong emotions (laughter, tears, anger, excitement), especially in children;
+
+3. Signs and symptoms
+
+Symptoms may be intermittent or persistent. They may occur after exercise or in the
+presence of another trigger, and they are usually worse at night and early morning
+The following are the four major recognized asthma symptoms:
+
+e Shortness of breath, especially with exertion or at night
+
+e Wheezing is a whistling or hissing sound when breathing out
+
+e Coughing may be chronic, is usually worse at night and early morning, and may occur
+
+after exercise or when exposed to cold, dry air
+e Chest tightness may occur with or without the above symptoms
+
+The above symptoms may be accompanied by:
+
+Sweating
+
+Increase in heart rate
+
+Difficulty speaking or coughing
+
+High anxiety, confusion and restlessness (especially in children)
+Bluish fingers or lips
+
+4. Investigations
+
+Asthma is usually diagnosed based on the presence of wheezing and confirmed with
+breathing tests.
+e Spirometry (lung function test)
+e Endurance test (if test show normal lung function despite the problems described by
+the patient),
+
+Chest X-rays are usually normal in asthma patients.
+
+5. Treatment
+
+The treatment of asthma is based on three pillars: avoid inhalation of allergens, treatment of
+airway inflammation and bronchial constriction treatment.
+e Most asthma medications work by relaxing bronchospasm (bronchodilators) or
+reducing inflammation (corticosteroids).
+
+22
+
+----- PAGE 24 -----
+Inhaled medications include beta-2 agonists, anticholinergics, corticosteroids, and
+cromolyn sodium. Oral medications include aminophylline, leukotriene antagonists,
+beta-2 agonists, and corticosteroid tablets
+
+5. Herbal treatment
+
+Abrus precatorius (leaves) and Euphorbia hirta with honey
+
+Allium sativum (bulb) and Zingiber officinale (rhizome) with honey
+
+Abrus precatorius (leaves), Euphorbia hirta (leaves) and Tetrapluera tetraptera (fruit)
+Otherm are Boswellia, Lobelia, Gingko biloba
+
+Magnesium
+
+Combination of vitamins C and E
+
+Buteyko Method
+
+Dietary advice: Foods rich in quercetin, chiropractic, homeopathy, fish oils, autogenic
+training, vitamin C, pycnogenol
+
+Exercise: Yoga and psychotherapy
+
+6. Prevention and control
+
+Avoiding precipitating factors is important in the management of asthma.
+
+General measures to prevent asthma include:
+
+Develop an action plan with the doctor to identify the factors (e.g. allergies, activities,
+behaviours, etc.) that cause crises in order to avoid them
+
+Be alert to precipitating signs in order to quickly act
+
+Avoid exposue to moisture, animals, pollen and other respiratory irritants
+
+Avoid exposure to tobacco smoke.
+
+Exercise; make time for relaxation.
+
+7. References
+
+Health Encyclopedia - Diseases and Conditions.
+http://www.healthscout.com/nav/ency/1/main.html
+
+23
+
+----- PAGE 25 -----
+N° 8: AZOOSPERMIA
+
+1. Description
+
+Azoospermia refers to the complete absence of sperm in the semen during ejaculation.
+Azoospermia affects about 1% of men, in whom it is the cause of infertility. It must be
+differentiated from oligospermia which is defined as a small amount of sperm in the semen
+and asthenospermia, which is inadequate sperm motility.
+
+There are two types of azoospermia:
+
+e Excretory azoospermia: usually due to an infectious disease of the reproductive
+system, inflammation or surgery performed in the groin area. In this case, the sperm
+are quite normal but can not migrate to the seminal vesicles.
+
+e Secretory azoospermia: the formation of spermatozoa is either incomplete or
+impossible.
+
+2. Causes
+
+The causes of azoospermia are:
+
+Cancer treatment;
+
+Epididymo-orchitis (inflammation of the testes and epididymis)
+Klinefelter's syndrome (presence of an extra X chromosome)
+Cryptorchidism (testicle remains in the abdomen)
+
+Cystic fibrosis (too high viscosity of bronchial secretions and digestive)
+
+Diseases commonly encountered in the epididymis in order of frequency of occurrence, are:
+e Epididymal agenesis, a congenital incomplete development of the epididymis
+e Inflammation of the epididymis, also called epididymitis, which is almost always
+associated with inflammation of the testicle
+e Cyst of the epididymis
+e Epididymectomy-removal of all or part of the epididymis
+
+3. Signs and symptoms
+
+Usually asymptomatic, but may be confirmed wih testicular biopsy. The main complication is
+male infertility.
+
+4. Treatment
+
+4.1. Pharmacologic
+
+The treatment of secretory azoospermia is impossible for the moment.
+- Modern treatment
+- Herbal treatment
+
+4.2. Herbal treatment
+e Saba camorensis (stem bark), Entandrophragma angolensis (leaves) and Cyperus
+esculentus (root).
+e Dietary advice
+e Exercise
+e Psychotherapy
+
+5. Prevention and control
+
+Treat all urinary tract infections
+
+6. References
+
+Health Encyclopedia - Diseases and Conditions.
+http://www. healthscout.com/nav/ency/1/main.html
+
+24
+
+----- PAGE 26 -----
+N° 9: GALLSTONES
+
+1. Description
+
+Gallstones are "stones" that form in the gallbladder or bile ducts. The common types of
+gallstones are cholesterol, black pigment, and brown pigment. Cholesterol gallstones occur
+more frequently in several ethnic groups and are associated with female gender, obesity,
+pregnancy, oral hormonal therapy, rapid loss of weight, elevated blood triglyceride levels,
+and Crohn's disease. Black pigment gallstones occur due to increased destruction of red
+blood cells, whereas brown pigment gallstones occur when bile flow is slowed. The risk of
+gallstones increases with age, probably due to the decreased efficiency of the contractions of
+the gallbladder.
+
+2. Causes
+
+Bile is composed mostly of water, bile salts, cholesterol, phospholipids, pigments and
+electrolytes. Gallstones form when cholesterol:
+
+a) Bile contains too much cholesterol;
+
+b) Bile does not contain sufficient bile salts;
+
+c) Gallbladder does not contract regularly (the gallbladder is then called "lazy").
+
+The risk factors for developing cholesterol gallstones include:
+
+Gender-gallstones occur more commonly in women than men.
+
+Age-gallstone prevalence increases with age.
+
+Obesity-obese individuals are more likely to form gallstones than thin individuals.
+
+Pregnancy-pregnancy increases the risk for cholesterol gallstones because during
+
+pregnancy, bile contains more cholesterol, and the gallbladder does not contract
+
+normally.
+
+e Birth control pills and hormone therapy-the increased levels of hormones caused by
+either treatment mimics pregnancy
+
+e Rapid weight loss-rapid weight loss by whatever means, very low calorie diets or
+obesity surgery, causes cholesterol gallstones in up to 50% of individuals
+
+e Crohn's disease-individuals with Crohn's disease of the terminal ileum are more likely
+to develop gallstones. Gallstones form because patients with Crohn's disease lack
+enough bile acids to solubilize the cholesterol in bile
+
+e Increased blood triglycerides-gallstones occur more frequently in individuals with
+elevated blood triglyceride levels
+
+3. Signs and symptoms
+
+In the vast majority of cases gallstones do not cause symptoms. The most common
+symptoms of gallstones are biliary colic (usually lasts from 30 minutes to 4 hours) and
+cholecystitis, an intense and sustained pain felt in the middle or upper right abdomen.
+Sometimes the pain radiates to the shoulder blade, nausea and vomiting Gallstones do not
+cause intolerance to fatty foods, belching, abdominal distention, or gas.
+
+In most cases, gallstones do not cause complications, but untreated it can lead to situations
+that would be life threatening. Complications of gallstones include acute cholecystitis
+(inflammation of the gallbladder), acute cholangitis (inflammation of the bile ducts) or acute
+pancreatitis (inflammation of the pancreas), gangrene, jaundice, sepsis, fistula, and ileus.
+Gallbladder sludge is associated with symptoms and complications of gallstones;
+
+4. Treatment
+
+4.1. Pharmacologic
+
+Modern treatment (medical, surgical, ultrasound)
+
+Gallstones are managed primarily with observation (no treatment) or removal of the
+gallbladder (cholecystectomy). Less commonly used treatments include sphincterotomy and
+
+25
+
+----- PAGE 27 -----
+extraction of gallstones, dissolution with oral medications, and extra-corporeal shock-wave
+lithotripsy (ESWL).
+
+Herbal treatment
+e Artichoke, combination of essential oil of peppermint and caraway
+e Boldo, milk thistle, turmeric, peppermint (leaf), dandelion
+e Dietary advice
+e Intake of olive oil
+
+5. Prevention and control
+e Maintain a normal weight
+e Regular exercise
+e Eat good "fat", especially polyunsaturated fats and monounsaturated fats lower risk of
+gallstones. The main sources of these "fata" are vegetable oils, nuts and seeds
+e Eat fiber
+e Limit the intake of sugars (carbohydrates), especially those with high glycemic index
+
+6. Verification
+
+The best single test for diagnosing gallstones is transabdominal ultrasonography. Other tests
+include endoscopic ultrasonography, magnetic resonance cholangio-pancreatography
+(MRCP), cholescintigraphy (HIDA scan), endoscopic retrograde cholangio-pancreatography
+(ERCP), liver and pancreatic blood tests, duodenal drainage, oral cholecystogram (OCG),
+and intravenous cholangiogram (IVC).
+
+7. References
+
+Health Encyclopedia - Diseases and Conditions.
+http://www.healthscout.com/nav/ency/1/main.html
+http://www.passeportsante.net/fr/Maux/Problemes/Fiche.aspx?doc=lithiase_biliaire pm#P58
+6051.
+
+26
+
+----- PAGE 28 -----
+N° 10: KIDNEY STONES
+
+1. Description
+
+Kidney stones, also called renal stones or nephrolithiasis are hard, crystalline mineral
+materials formed within the kidney or urinary tract. Kidney stones are a common cause of
+blood in the urine (haematuria) and often severe pain in the abdomen, flank, or groin. Kidney
+stones are sometimes called renal calculi.
+
+2. Causes
+
+Kidney stones form when there is a decrease in urine volume and/or an excess of stone-
+forming substances in the urine. The main risk factors include:
+e Dehydration
+e Certain medications (diuretics such as triamterene, antacids containing calcium,
+sulfonamides and some antiviral drugs such as indinavir), or supplements
+Diet very rich in salt or sugar
+Diet containing excess protein or deficient in calcium
+Genetic disease (cystic fibrosis)
+Metabolic disease (diabetes)
+Urinary tract malformations (especially in children)
+Family history of kidney stones (more common in Asians and Caucasians than in
+Native Americans, Africans, or African Americans)
+e People with certain medical conditions, such as gout
+e Some pregnant women
+
+Possible complications include:
+e Sepsis related to infection and secondary to obstruction of a ureter by a calculus;
+e Colic in a patient with only one kidney
+
+3. Signs and symptoms
+
+The main signs and symptoms include:
+
+Flank pain (sudden and intense pain in the back (one side of the trunk, under the ribs)
+Nausea and vomiting
+
+Blood in the urine or cloudy urine
+
+Sometimes an urge to urinate and frequent
+
+Burning sensation during urination and frequency (in case of concomitant urinary tract
+infection)
+
+e Fever and chills
+
+4. Investigations
+e Diagnosis of kidney stones is best done with a computed tomography (CT) of the
+kidneys, ureters and bladder
+e Also urinalysis to check for blood and crystals in the urine, and to determine its pH
+
+5. Treatment
+5.1. Modern treatment
+
+With time, most kidney stones will pass through the ureter to the bladder on their own.
+Treatment includes pain control medications and, in some cases, medications to facilitate the
+passage of urine. Where necessary, lithotripsy or surgical techniques may be used for stones
+which do not pass through the ureter to the bladder on their own.
+
+5.2. Herbal treatment and Supplementation
+e Prevention: asparagus, nettles, parsley, dandelion, goldenrod
+e Treatment: nettle, parsley, horsetail, goldenrod, butterbur, magnesium, pumpkin
+seeds, fish oils, vitamin B6 prevention
+Dietary advice
+
+27
+
+----- PAGE 29 -----
+6. Prevention and control
+
+NB:
+
+Preventive measures are intended primarily for those at risk or those who have had
+kidney stones. Measures to reduce the risk or prevent recurrences:
+
+Drink enough: the best way to prevent kidney stones is to drink at least 2 liters of
+water or other beverages every day (juices, soups, coffee, etc.). Attention! It is best
+not to drink grapefruit juice
+
+Reduce intake of foods rich in oxalate (spinach, rhubarb, beets, chard, peanuts,
+chocolate, tea, wheat germ, okra, sweet potatoes and soybeans)
+
+Ensure good dietary intake of calcium
+
+Eat foods rich in potassium: potatoes (with skin), cantaloupe, avocado, lima beans
+and bananas
+
+Eat enough fiber
+
+Medications: to prevent recurrence of stones, various medications or supplements
+that vary depending on the type of calculation (thiazide diuretics, allopurinol,
+potassium citrate, etc.) may be prescribed
+
+Prolonged use of high doses of vitamin D can cause kidney stones;
+
+Long-term intake of high doses of vitamin C contributes to the formation of kidney
+stones. The recommended dose to benefit from the antioxidant effect of vitamin C is
+500 mg per day
+
+7. References
+
+Health Encyclopedia - Diseases and Conditions.
+http://www. healthscout.com/nav/ency/1/main.html
+
+28
+
+----- PAGE 30 -----
+N° 11: LIVER CIRRHOSIS
+
+1. Description
+
+Cirrhosis is an irreversible liver disease characterized by progressive scarring that disrupts
+the liver’s normal lobular architecture and nodule formation. This leads to three major effects:
+e Hepatic insufficiency- functional deficit related to the decrease in the number of
+hepatocytes and poor quality of vascularization;
+e Portal hypertension-cause gastrointestinal bleeding;
+e Precancerous condition: the development of carcinoma after 15-20 years of evolution
+
+Cirrhosis can cause yellowing of the skin (jaundice), itching, and fatigue.
+
+2. Causes
+
+There are many causes of cirrhosis, which include:
+
+e Chemicals (such as alcohol, fat, and certain medications), viruses, toxic metals (such
+as iron and copper that accumulate in the liver as a result of genetic diseases)
+
+e Chronic hepatitis C: 15 to 25% of cases;
+
+e Chronic hepatitis B: 5% of cases
+
+e Other causes: 5% of cases (hemochromatosis, primary biliary cirrhosis, autoimmune
+hepatitis, Wilson's disease, alpha 1 antitrypsin deficiency, secondary biliary cirrhosis,
+etc.)
+
+3. Signs and symtoms
+
+Patients with cirrhosis may have few or no symptoms and signs of liver disease. Some of the
+symptoms may be nonspecific, and may not suggest that the liver is their cause. Some of the
+more common symptoms and signs of cirrhosis include:
+
+e Increase in size of the liver (hepatomegaly) with a hard consistency
+
+e Signs of liver failure such as jaundice, spider naevi, palmar and plantar erythema
+(very red palms), foul odor of the breath, flapping tremor
+Yellowing of the skin (jaundice) due to the accumulation of bilirubin in the blood
+Fatigue
+Weakness
+Loss of appetite
+Itching
+Easy bruising from decreased production of blood clotting factors by the diseased
+liver.
+e Signs of portal hypertension: splenomegaly (enlarged spleen),
+
+Complications of cirrhosis include mental confusion, coma, fluid accumulation (ascites),
+internal bleeding, hepatic encephalopathy, jaundice and kidney failure.
+
+4. Investigations
+
+Diagnosis is suggested by physical examination and blood tests, and it can be confirmed by
+liver biopsy.
+
+e Liver function test
+
+e Abdominal ultrasound
+
+e Endoscopy of the Upper GI tract
+
+5. Treatment
+
+5.1. Pharmacologic
+
+There is no cure for cirrhosis, but early treatment can prevent the development of
+complications. Treatment includes 1) preventing further damage to the liver, 2) treating the
+complications of cirrhosis, 3) preventing liver cancer or detecting it early, and 4) liver
+transplantation.
+
+29
+
+----- PAGE 31 -----
+Modern
+
+Suppress the immune system with drugs such as prednisone and azathioprine to
+decrease inflammation of the liver in autoimmune hepatitis.
+
+Treat patients with a bile acid preparation, ursodeoxycholic acid. Other medications
+such as colchicine and methotrexate also may have benefit in subsets of patients with
+PBC.
+
+Herbal treatment
+
+Viscum album (leaves), Mangifera indica (leaves), Anthocleista nobilis (leaves),
+Phyllanthus fraternus (leaves)
+Dietary advice
+
+6. Prevention and control
+
+Consume a balanced diet and one take multivitamin daily
+
+Avoid drugs (including alcohol) that cause liver damage
+
+Avoid nonsteroidal antiinflammatory drugs (NSAIDs, e.g., ibuprofen)
+
+Eradicate hepatitis B and hepatitis C virus by using anti-viral medications
+
+Remove blood from patients with hemochromatosis to reduce the levels of iron and
+prevent further damage to the liver. In Wilson's disease, medications can be used to
+increase the excretion of copper in the urine to reduce the levels of copper in the
+body and prevent further damage to the liver.
+
+Immunize patients with cirrhosis against infection with hepatitis A and B to prevent a
+serious deterioration in liver function
+
+7. References
+
+http://sante-guerir.notrefamille.com/sante-a-z/cirrhoses-du-foie/cirrhose-prevention-et-
+traitement-073392.html
+
+Health Encyclopedia - Diseases and Conditions.
+http://www.healthscout.com/nav/ency/1/main.html
+
+30
+
+----- PAGE 32 -----
+N° 12: ERECTILE DYSFUNCTION
+
+1. Description
+
+Erectile dysfunction (ED), also known as impotence, is the repeated inability to achieve or
+sustain an erection for satisfactory sexual activity over a period of at least three months. It
+varies in severity thus:
+
+e Recurring difficulty or inability to achieve erection;
+
+e Getting an erection but with a penis that is not firm enough for penetration;
+
+e Inability to maintain a satisfactory erection after penetration;
+
+It is more common in men over 50 years, but can occur at the end of adolescence. The risk
+of erectile dysfunction increases with age. The ability to achieve and sustain erections
+requires
+
+e ahealthy nervous system
+
+e healthy arteries in and near the corpora cavernosa,
+
+e healthy smooth muscles and fibrous tissues within the corpora cavernosa,
+
+e adequate levels of nitric oxide in the penis.
+
+2. Causes
+
+The following are causes of erectile dysfunction:
+
+Aging
+
+Diseases (e.g. hypertension; atherosclerosis, Diabetes mellitus)
+
+Cigarette smoking-aggravates atherosclerosis
+
+Nerve or spinal chord damage
+
+Substance abuse (e.g. marijuana, heroin, cocaine, methamphetamines, crystal meth,
+
+and alcohol)
+
+Low testosterone levels
+
+e Medications (e.g. antihistamines, antidepressants, tranquilizers, and appetite
+suppressants)
+
+e Depression and anxiety
+
+3. Signs and symptoms
+e Inability to achieve an erection;
+e Lack of stiffness which does not allow adequate penetration
+
+4. Investigations
+
+e Candid communication between the patient and the doctor
+
+e Physical examination
+
+e Lab tests (complete blood counts, urinalysis, lipid profile, blood glucose levels, serum
+creatinine, liver enzymes and liver function tests, total testosterone levels, PSA levels,
+etc.)
+
+e Imaging tests
+
+e Prostaglandin E1 injection test
+
+5. Treatment
+
+5.1. Pharmacologic
+
+Making life style changes (e.g. quitting smoking and exercising more)
+
+Taking drugs such as sildenafil (Viagra), vardenafil (Levitra) or tadalafil (Cialis)
+Inserting medications into the urethra (intraurethral suppositories)
+
+Injecting medications into the corpora cavernosae (intracavernosal injections)
+Vacuum constrictive devices for the penis
+
+Penile prostheses
+
+Herbal treatment
+e Mondia whitei (root), Sphenocentrum jollyanum (root), Paullinia pinnata (root) and
+Sida acuta (root)
+
+31
+
+----- PAGE 33 -----
+Cissus populnea (stem), Paullinia pinnata (root), Mondia whitei (root) and Zea mays
+(silk)
+
+Mondia whitei (root), Sphenocentrum jollyanum (root), Paullinia pinnata (root),
+Bombax buonopozense (stem)
+
+Aframomum melegueta (seed), Hymenocardia acida (leaves), Zanthoxylum
+xanthozyloides (stem bark) and Zingiber officinale (rhizome)
+
+6. Complications
+
+None
+
+7. Prevention and control
+
+Limit alcohol consumption.
+
+Quit smoking.
+
+Exercise regularly
+
+Lose excess weight
+
+Curtail excessive alcohol consumption
+Control hypertension
+
+Optimize blood glucose levels in patients with diabetes
+Relaxation
+
+Get enough sleep
+
+Adopt a healthy lifestyle
+
+Eat healthy foods
+
+8. Références
+
+Health Encyclopedia - Diseases and Conditions.
+http://www. healthscout.com/nav/ency/1/main.html
+
+32
+
+----- PAGE 34 -----
+N° 13: GONORRHOEA
+
+1. Description
+
+Gonorrhoea, commonly known as "the clap" is a sexually transmitted infection (STI) caused
+by the bacterium Neisseria gonorrhoeae. It occurs more often in men than women. Men aged
+20-24 years and young women aged 15 to 19 are the most affected. It can infect the penis,
+vagina, urethra, rectum, throat and sometimes the eyes. In women, the cervix may also be
+damaged.
+
+Men with gonorrhoea may have a yellowish discharge from the penis accompanied by itching
+and burning. More than half of women with gonorrhoea do not have any symptoms.
+
+2. Causes
+
+Gonorrhoea is spread during unprotected anal or vaginal sex with an infected partner,
+through the exchange of bodily fluids and contact with mucous membranes. It is rarely
+transmitted by oral sex. It can also be transmitted from an infected mother to an infant during
+delivery, causing eye infection.
+
+3. Signs and symptoms
+
+Symptoms usually appear 2 to 5 days after the time of infection, but they can take up to 30
+days before being noticed. Symptoms may include burning or frequent urination, yellowish
+vaginal discharge, redness and swelling of the genitals, and a burning or itching of the
+vaginal area.
+
+Men: some men have little or none of these symptoms:
+e tingling or urethral discharge;
+e burning on urination;
+e pain or swelling in the testicles;
+e pain or discharge from the rectum.
+
+Women: many women have no symptoms:
+e burning sensation during urination;
+yellowish vaginal discharge, or sometimes bloody;
+Abnormal vaginal bleeding;
+Lower abdominal pain;
+Pain during intercourse.
+
+If untreated, gonorrhoea can lead to severe pelvic infections and even sterility. Complications
+in later life can include inflammation of the heart valves, arthritis, and eye infections.
+e In women, gonorrhoea can cause pelvic inflammatory disease, infertility, chronic
+pelvic pain or increase the risk of ectopic pregnancy.
+e In men, gonorrhoea can cause inflammation of the prostate (prostatitis) or testicles
+(epididymitis), which can cause infertility.
+
+Gonorrhoea also increases the risk of HIV transmission.
+
+4. Investigations
+
+Urethral or vaginal sampling with culture and susceptibility testing
+
+5. Treatment
+5.1. Pharmacologic
+Treated with antibiotics (e.g. examples are ciprofloxacin, ofloxacin and levofloxacin)
+
+Herbal treatment
+e Alchornea cordifolia (leaves), Euphorbia hirta (leaves), Bridelia ferruginea (leaves),
+Combretum smeathannii (leaves)
+
+33
+
+----- PAGE 35 -----
+6. Prevention and control
+e Basic preventive measures: use of condoms helps prevent transmission of
+gonorrhoea during vaginal or anal sex.
+e Screening measures: a regular screening helps to prevent the spread of infection to
+new partners. In the case of a positive result, it is important to notify any person with
+whom you have had sex and could have been exposed.
+
+7. References
+
+Health Encyclopedia - Diseases and Conditions.
+http://www.healthscout.com/nav/ency/1/main.html
+
+34
+
+----- PAGE 36 -----
+N° 14: HAEMORRHOIDS
+
+1. Description
+
+Haemorrhoids also known as piles are dilated veins that form in the walls of the anus and
+sometimes around the rectum. They are usually caused by untreated constipation but
+occasionally associated with chronic diarrhoea. Although haemorrhoids occur in everyone,
+they become large and cause problems in only 4% of the general population including both
+men and women. Their prevalence peaks between 45 and 65 years of age.
+
+There are two main types of haemorrhoids:
+e Internal haemorrhoid-the haemorrhoid originates at the top (rectal side) of the anal
+canal
+e External haemorrhoid- the haemorrhoid originates at the lower end of the anal canal
+near the anus
+
+2. Causes
+
+There are several theories about the cause of haemorrhoids. The main physiological causes
+are: prolonged sitting on the toilet, constipation, pregnancy and age. Other common causes
+include: prolapsed haemorrhoids, tumours in the pelvis and colorectal tumours. Rare causes
+include anal fissure, skin abrasions from scratching, diverticular disease (excessive
+bleeding), proctitis: inflammatory, infectious or iatrogenic (NSAID suppositories, external
+radiotherapy) and squamous cell carcinoma of the anus
+
+3. Signs and symptoms
+
+Symptoms start with bleeding after defecation. Untreated haemorrhoids can worsen, and
+protrude from the anus. The signs and symptoms are:
+
+e Internal haemorrhoids-are usually painful and somewhat inconspicuous; sometimes
+associated with bleeding and anal itching; often the first and second stage (stage 1
+and 2) of hemorrhoids.
+
+e External haemorrhoids: at more advanced stages (stages 3 and 4), haemorrhoids
+
+protrude from the anus and become visible; more pronounced pain, especially during
+defecation.
+External haemorrhoids cause a few of the symptoms that are typical of internal
+haemorrhoids, perhaps, because they are low in the anal canal and have little effect
+on the function of the anus. External haemorrhoids rarely cause serious
+complications, however, blood can clot inside them (thrombosis) causing a painful
+anal lump that often requires medical attention. The thrombosed haemorrhoid may
+heal with scarring and leave a tag of skin protruding from the anus, which can make
+anal cleaning difficult or irritate the anus.
+
+4. Investigations
+
+e Rectal examination with a gloved finger may uncover an internal hemorrhoid high in
+the anal canal-helpful in excluding rare cancers that begin in the anal canal and
+adjacent rectum
+
+e Anoscope (a three-inch long, tapering, metal or clear plastic hollow tube
+approximately one inch in diameter at its viewing end)
+
+e Flexible sigmoidoscopy or colonoscopy-helps to exclude important causes of bleeding
+other than haemorrhoids
+
+5. Treatment
+
+Treatment involves changing the diet to prevent constipation and avoid further irritation, the
+use of topical medication, and sometimes surgery. Products used for the treatment of
+hemorrhoids are available as ointments, creams, gels, suppositories, foams, and pads.
+
+The main forms of treatment are:
+a) Local anesthetics- e.g. benzocaine; benzyl alcohol, dibucaine; lidocaine, etc
+b) Vasoconstrictors-ephedrine sulfate; epinephrine; phenylephrine
+35
+
+----- PAGE 37 -----
+c) Protectants-e.g. aluminum hydroxide gel, cocoa butter; glycerin; kaolin; lanolin;
+mineral oil (Balneol); white petrolatum; starch; zinc oxide or calamine (which contains
+zinc oxide) in concentrations of up to 25%; cod liver oil or shark liver oil
+
+d) Astringents-e.g. calamine, zinc oxide; witch hazel
+
+e) Antiseptics: e.g. boric acid; hydrastis; phenol; benzalkonium chloride; benzethonium
+chloride
+
+f) Keratolytics: e.g. aluminum chlorhydroxy allantoinate; resorcinol
+
+g) Analgesics: e.g. menthol; camphor; juniper tar
+
+Herbal treatment
+
+e Venotonics: witch hazel, usually taking in the form of tablets, ointments, suppositories
+
+e Chamomile added to a sitz bath or wipe
+
+e Chestnut, usually taking the form of a capsule
+
+e Picralima nitida (seed), Garcinia kola (seed), Aloe vera (leaves), Eugenia aromaticum
+(flower bud)
+
+e Picralima nitida (seed), Cassia podocarpa (eaves), Eugenia aromaticum (flower bud),
+Xylopia aethiopica (fruit)
+
+e Nauclea latifolia (root), Khaya senegalensis (bark), Xylopia aethiopica (fruit), Zingiber
+officinale (rhizome)
+
+e Exercise
+
+e Psychotherapy
+
+e Dietary advice
+
+e Sitting in a sitz bath with a solution of witch hazel ointment
+
+6. Prevention and control
+
+e Increase intake of dietary fibre-found in numerous foodstuffs including fresh and dried
+fruits, vegetables, grains, and cereals; supplemental fiber (psyllium, methylcellulose,
+or calcium polycarbophil) also may be used to increase the intake of fiber
+
+e Take stool softeners and increase drinking of liquids
+
+e Eat breakfast in the morning
+
+e Regular exercises— twenty minutes of walking per day at a good pace can stimulate
+intestinal transit.
+Avoid sitting for long hours; if not possible, get up for 1 or 2 minutes.
+
+e Empty bowels regularly-do not delay the time to defecate if the need arises
+
+e At the time of defecation, avoid forcing with bated breath
+
+e Do not sit on the toilet seat for longer than necessary
+
+7. References
+
+Health Encyclopedia - Diseases and Conditions.
+http://www. healthscout.com/nav/ency/1/main.html
+
+36
+
+----- PAGE 38 -----
+N° 15: HEPATITIS
+
+1. Description
+
+Hepatitis is an inflammation of the liver, most commonly caused by a viral infection (hepatitis
+A, B, C ...), but sometimes by alcohol, or by a drug or a chemical. There are several hepatitis
+viruses; they have been named types A, B, C, D, E, F (not confirmed), and G. The most
+common hepatitis viruses are types A, B, and C.
+
+Hepatitis A (acute viral hepatitis): This is the least serious of the hepatitis viruses. Hepatitis
+A is transmitted through the ingestion of food or water contaminated by human waste
+containing hepatitis A (the faecal-oral mode of transmission). It is typically spread among
+household members and close contact through the passage of oral secretions (intimate
+kissing) or stool (poor hand washing).
+
+Hepatitis B ("serum hepatitis"): Hepatitis B is transmitted by sexual intercourse and the
+transfer of blood through shared needles in drug abusers, accidental needle sticks with
+needles contaminated with infected blood, blood transfusions, haemodialysis, and by
+infected mothers to their newborns. Hepatitis B also can be spread by tattooing, body
+piercing, and sharing razors and toothbrushes. About 6-10% of patients develop chronic HBV
+infection, which may last for about six months and often years to decades. Patients with
+chronic hepatitis B infection also are at risk of developing cirrhosis, liver failure and liver.
+
+Hepatitis C ("non-A, non-B hepatitis"): it is the most insidious form of viral hepatitis. Up to
+80% of infections with hepatitis C become chronic. The virus is most often transmitted by
+direct contact with infected human blood, through shared needles among drug abusers,
+blood transfusion, haemodialysis, and needle sticks. Approximately 90% of transfusion-
+associated hepatitis is caused by hepatitis C. Transmission of the virus by sexual contact has
+been reported, but is considered rare. Patients with chronic hepatitis C infection are at risk
+for developing cirrhosis, liver failure, and liver cancer.
+
+Hepatitis types D, E, F (not confirmed yet), and G-the most important of these at present
+is the hepatitis D virus (HDV), also known as the delta virus or agent. HDV requires
+concomitant infection with hepatitis B to survive, because it needs a protein that the hepatitis
+B virus makes to enable it to infect liver cells. Hepatitis D is spread by shared needles among
+drug abusers, contaminated blood, and by sexual contact, essentially the same ways as for
+hepatitis B. Patients with chronic hepatitis due to hepatitis B and hepatitis D viruses develop
+cirrhosis (severe liver scarring) rapidly. Moreover, the combination of delta and B virus
+infection is very difficult to treat.
+
+Autoimmune hepatitis: this is a chronic inflammatory disease of the liver characterized by
+the presence of autoantibodies.
+
+The most common risk factors of viral hepatitis are health care professionals, people with
+multiple sexual partners, intravenous drug users, and hemophiliacs. Viral hepatitis is
+generally thought to be as much as ten times more common among lower socioeconomic
+and poorly educated individuals and about one third of all cases of hepatitis come from an
+unknown or unidentifiable source.
+
+The period of time between exposure to hepatitis and the onset of the illness is called the
+incubation period. This period varies depending on the specific hepatitis virus. For example,
+Hepatitis A has an incubation period of about 15-45 days; hepatitis B from 45-160 days, and
+hepatitis C from 2 weeks to 6 months.
+
+2. Signs and symptoms
+
+In many cases, patients infected with hepatitis A, B, and C have few or no symptoms. For
+those who do develop symptoms, the most common are flu- like symptoms including loss of
+appetite, nausea, vomiting, fever, weakness, tiredness and abdominal discomfort (especially
+right side)aching in the abdomen. Less common symptoms include dark urine (the color of
+tea), light-colored stools, fever and jaundice (yellow skin and cornea).
+
+Rarely, individuals with acute hepatitis A and hepatitis B infections develop severe
+inflammation, and the liver fails (acute fulminant hepatitis). These patients show the typical
+
+37
+
+----- PAGE 39 -----
+symptoms of acute hepatitis and the additional problems of confusion or coma (due to the
+liver's failure to detoxify chemicals) and bruising or bleeding (due to a lack of blood clotting
+factors). The condition is life-threatening and up to 80% of people who develop it can die
+within days to weeks.
+
+3. Investigations
+
+Testing for hepatitis A, B or C is recommended for people at high risk, in particular: people
+with HIV, pregnant women and people with pre-existing liver disease. There are three types
+of blood tests for evaluating patients with hepatitis: liver enzymes, antibodies to the hepatitis
+viruses, and viral proteins or genetic material (viral DNA or RNA). Ultrasound testing can be
+used to exclude the possibility of gallstones or cancer.
+
+4. Treatment
+
+Treatment of acute viral hepatitis involves relieving symptoms and maintaining adequate
+intake of fluids. Treatment of chronic viral hepatitis involves medications to eradicate the
+virus and taking measures to prevent further liver damage.
+
+Herbal treatment:
+e Cochlospermum tinctorium (rhizome), Entada africana (roots), Combretum
+micranthum (leaves), Phyllanthus amarus (leaves)
+e Cochlospermum tinctorium (rhizome), Tinospora bakis (rhizome)
+e Phyllanthus amarus (aerial parts), Chrysantellum americanum, Combretum
+micranthum (leaves), Cochlospermum tinctorum (rhizome), Entada africana (roots)
+e Others are liquorice, schisandra, milk thistle
+e Dietary and lifestyle advice to relieve discomfort and promote healing:
+stop drinking
+have adequate rest
+stop smoking
+avoid large meals
+seek support
+avoid exposure to toxic chemicals, etc.
+
+>oaoom
+
+6. Prevention and control
+
+Hepatitis A and B
+e Never eat mussels or shells found on the sea without cooking for less than 6 minutes.
+e When traveling to areas where hepatitis A is common, be vaccinated one month
+before departure
+Always use condoms during sexual intercourse
+Wash hands routinely after defaecating, before handling food and before eating
+Ensure that equipments/tools for tattoos or body piercing are sterilized or disposable
+Wear gloves before touching a person's blood (infected or not)
+Avoid sharing a razor or toothbrush with another person
+Never share needles or syringes to inject drugs
+Vaccination is highly recommended
+
+Toxic hepatitis
+e Follow the dosage on the package of drugs (including those OTC) and natural health
+products.
+Pay attention to possible interactions between drugs and alcohol
+Store medicines in a safe place away from children
+Adopt adequate safety measures in the workplace
+Take only herbal medicines that are safe and of good quality
+
+7. References
+
+Health Encyclopedia - Diseases and Conditions.
+http://www. healthscout.com/nav/ency/1/main.html
+
+38
+
+----- PAGE 40 -----
+N° 16: BENIGN PROSTATIC HYPERPLASIA
+
+1. Description
+
+Benign prostatic hyperplasia (BPH) is nonmalignant (noncancerous) enlargement of the
+prostate gland. Almost all men suffer from BPH one time or another. It generally begins in
+men from the age of 30, evolves slowly, and most commonly only causes symptoms after 50.
+BPH occurs in more than 50% of men aged 60 and 90% of those over 80 years. The cause
+of BPH is unknown, although it has been speculated that it may be due to reduced
+testosterone levels, which occurs naturally with age.
+
+2. Signs and symptoms
+
+Growth in size of the prostate gland in BPH may compress the urethra and thus impede the
+flow of urine from the bladder through the urethra to the outside. Common symptoms include:
+Compelling urge to urinate
+
+Urinary retention leading to the need to urinate frequently during the day and night
+Slow flow of urine
+
+Urgency and difficulty starting the urinary stream
+
+Painful urination
+
+Intermittent flow
+
+Sensation of not emptying your bladder completely
+
+Signs of complications observed are:
+e Lack of sleep
+Urinary tract infections
+Kidney stones
+Distension of the bladder wall
+Complete blockage of the urethra leading to kidney damage
+
+3. Investigations
+e Rectal examination of the urethra, prostate, and bladder
+Urine culture
+Assessment of renal function
+Abdominal x-ray
+Renal ultrasonography
+Watching act of urination and measuring the flow rate
+
+4. Treatment
+
+Medical treatment of BPH is usually reserved for men who have significant symptoms. The
+available drugs include alpha blockers to relax the smooth muscles of the prostate, and the
+bladder neck, which helps to relieve urinary obstruction. Surgery or office procedures may
+also be used to treat BPH, most commonly in men who have not responded satisfactorily to
+medication or those who have more severe problems, such as a complete inability to urinate.
+Other treatment methods include transurethral resection of the prostate, laser procedures
+and microwave therapy
+
+Herbal treatment
+
+Alchornea cordifolia (leaves), Flugea virosa (leaves), Euphorbia hirta (aerial part) or;
+
+Tetrapleura tetraptera (fruit), Flugea virosa (leaves), Euphorbia hirta (aerial parts)
+
+Sabal serrulata Serenoa repens
+
+Stinging nettle: Urtica dioica
+
+African plum: Prunus africanus = Pygeum africanum
+
+Squash or Pumpkin, Cucurbita pepo
+
+Pollen of certain grasses.
+
+Empty bladder as much as possible at each urination
+
+Reduce alcohol and coffee
+
+Regular urination, e.g. every 4 hours
+
+Intake of dietary supplements containing zinc
+
+Stay physically active: physical activity diminishes retention of urine in the bladder
+39
+
+----- PAGE 41 -----
+e Psychotherapy
+e Avoid stress
+
+5. Prevention and control
+
+The best protection against prostate problems is to have regular medical checkups that
+include a careful prostate examination. Regular checkups are important even for men who
+have had surgery for BPH.
+
+6. References
+
+http://www. passeportsante. net/fr/Maux/Problemes/Fiche.aspx?doc=hypertrophie_benigne_pr
+ostate_pm
+
+Health Encyclopedia - Diseases and Conditions.
+http://www.healthscout.com/nav/ency/1/main.html
+
+40
+
+----- PAGE 42 -----
+N° 17: URINARY TRACT INFECTIONS
+
+1. Description
+
+A urinary tract infection is an infection that may affect one or more parts of the urinary
+system: kidneys, ureters, bladder and urethra. The majority are caused by E. coli bacteria,
+but many other bacteria, fungi, and parasites may also cause UTIs. The type of UTI depends
+on the affected part of the urinary system:
+
+e Cystitis is an infection of the bladder and urethra. It is very common among women.
+
+e Urethritis only affects the urethra. It is a sexually transmitted infection (STI) common
+
+in men.
+e Pyelonephritis means inflammation of the kidney and is a serious condition.
+
+2. Causes
+
+Urinary tract infections are usually caused by the abnormal proliferation of bacteria. Factors
+that increase the risk are:
+
+In women
+e Poor hygiene of the genital area
+e Frequent and intense sexual intercourse after a period of abstinence
+e Pregnancy
+e Contraceptives-diaphragm or spermicide
+
+In men
+e Benign prostatic Hyperplasia or prostatitis
+e Anal sex without a condom
+
+Generally
+e Malformation of the urinary tract
+e Kidney Stones
+e Urinary catheter
+
+In a pregnant woman, UTIs can cause:
+e Threatened abortion
+e Premature birth
+
+In men, repeated UTIs can cause:
+e = Male infertility
+e Prostatitis
+e Pyelonephritis
+
+In severe cases, urinary tract infection may progress to renal failure
+
+3. Signs and symptoms
+
+Common urinary tract infection (UTI) symptoms in women include:
+e Urge to urinate frequently, often in small amounts
+e =Burning with urination
+e Cloudy urine
+e Strong unpleasant smell of urine
+e Dark or bloody urine
+e Pelvic pain
+e Flank or back pain (kidney infection)
+e Fever, chills (usually with kidney infection)
+e Other possible symptoms include bloating, vaginal discharge
+Common urinary tract infection (UTI) symptoms in men include:
+e Urge to urinate frequently, often in small amounts
+e ~=Burning with urination
+e Cloudy urine
+e Strong unpleasant smell of urine
+e Dark or bloody urine
+
+41
+
+----- PAGE 43 -----
+e Rectal pain (kidney infection)
+
+e Flank or back pain (kidney infection)
+
+e Other symptoms may include penile, testicular and abdominal pain, and penile
+discharge
+
+Common urinary tract infection (UTI) symptoms in children include:
+e Urge to urinate frequently, often in small amounts
+Burning with urination
+Cloudy urine
+Strong unpleasant smell of urine (not as reliable in children)
+Dark or bloody urine
+Abdominal pain
+Fever
+Vomiting
+Other symptoms (especially in newborns and infants) may include hypothermia,
+diarrhea, jaundice, poor feeding and in some children, bedwetting
+
+There can be many complications of urinary tract infections, including dehydration, sepsis,
+kidney failure, and death. If treated early and adequately, the prognosis is good for most
+patients with a UTI.
+
+4. Investigations
+e Urinalysis
+e Other tests may include blood cultures, a complete blood count, intravenous
+pyelogram, a CT scan, or other specialized tests.
+
+In general, UTIs are diagnosed usually by isolating and identifying the urinary
+pathogen from the patient.
+
+5. Treatment
+
+Although there is no vaccine available for UTIs, there are many ways a person may reduce
+the chance of getting a UTI.
+e UTIs are treated with antibiotics
+e Over-the-counter (OTC) medicines offer relief from the pain and discomfort of UTIs
+but they don't cure UTIs
+
+Herbal treatment
+
+e There are home remedies for UTI, but most may, at best, help reduce the risk or
+discomfort of UTIs. Common herbs used include echinacea, nettle, horsetail,
+horseradish, bearberry (Uva ursi), golden rod.
+
+e Others are Ageratum conyzoides (leaves), Zanthoxylum xanthoxyloides (bark) and
+Cassia alata
+
+e Dietary advice
+
+e Intake of cranberry juice for people prone to recurrences
+Physical exercise
+
+e Psychotherapy
+
+6. Prevention and control
+
+Increase fluid intake: 6 to 8 glasses of water or various beverages (juice, broth, tea, etc..) per
+day can increase urinary flow and prevent bacteria from forming in the bladder.
+
+Women:
+e Wash the vulva and around the anus daily
+e Avoid genital deodorant and douching
+e Urinate shortly after sex
+e After urination or a bowel movement, wipe from front to back to avoid contaminating
+the urethra with bacteria from faeces
+
+42
+
+----- PAGE 44 -----
+Men:
+e Use condoms with a new partner or in the case of anal sex
+e Must treat enlarged prostate, if applicable
+e Temporarily avoid coffee, alcohol, soft drinks containing caffeine, orange juice or
+grapefruit and spicy foods. These foods irritate the bladder and make you want to
+urinate more frequently.
+
+7. References
+Health Encyclopedia - Diseases and Conditions.
+http://www. healthscout.com/nav/ency/1/main.html
+
+43
+
+----- PAGE 45 -----
+N° 18: SEXUALLY-TRANSMITTED INFECTIONS
+
+1. Description
+
+Sexually-transmitted Infections (STI) are diseases transmitted by sexual contact including
+sexual intercourse (vaginal and anal) and also kissing, oral-genital contact, and the use of
+sexual "toys," such as vibrators. Examples of some of the sexually transmitted infections
+(STIs) are HIV/AIDS, chlamydia, chancroid, trichomoniasis, genital herpes, genital warts,
+gonorrhoea, hepatitis B, and syphilis.
+
+2. Causes
+
+The main causes are bacteria, viruses, parasites or fungi. Currently, the most common
+Sexually transmitted infections are:
+e Chlamydia;
+Warts (HPV infection);
+Genital herpes;
+Hepatitis B;
+HIV / AIDS
+
+3. Signs and symptoms
+
+The signs and symptoms vary because they are symptomatic of the underlying disease.
+Sexually transmitted infections can have an impact on fertility and the foetus.
+
+4. Investigations
+
+e General examination for neurological or cardiovascular evidence of advanced
+syphilis, lymphadenopathy, Kaposi’s sarcoma and opportunistic infection in patients
+suspected of AIDS
+
+e Gram-stain for leucocytes and organisms should be made and wet prepartation
+should be examined for Trichomonas vaginalis
+
+e Immunofluorescent technique
+
+e Micobiological culture
+
+e Protoscopy
+
+5. Treatment
+
+Many STIs are treatable, but effective cures are lacking for others, such as HIV, HPV, and
+hepatitis B and hepatitis C. Even gonorrhea, once easily treated, has become resistant to
+many of the older traditional antibiotics. Many STDs can be present in, and spread by,
+people who do not have any symptoms of the condition and have not yet been diagnosed
+with an STD. Therefore, public awareness and education about these infections and the
+methods of preventing them is important.
+
+Herbal treatment
+e Parkia biglobosa (stem bark), Zanthoxylum xanthxyloides (stem bark), Spathodea
+campanulata (stem bark)
+e Drink cranberry juice
+e Physical exercises
+e Psychotherapy
+
+6. Prevention and control
+e The most effective way to prevent the spread of STDs is abstinence. Alternatively, the
+diligent use of latex barriers, such as condoms, during vaginal or anal intercourse and
+oral-genital contact helps decrease the spread of many of these infections.
+e Health education
+e Avoidance of sexual contact with individuals known to have STD or in high risk
+groups
+
+7. References
+
+Health Encyclopedia - Diseases and Conditions.
+http://www. healthscout.com/nav/ency/1/main.html
+
+44
+
+----- PAGE 46 -----
+N° 19: MALE INFERTILITY-OLIGOSPERMIA
+
+1. Description
+
+Oligospermia or oligozoospermia refers to abnormally low sperm count (less than 20 million
+spermatozoa per millilitre of ejaculate) and is a common finding in male infertility. We talk
+about Cryptozoospermia (or extreme oligozoospermia) in the case of sperm showing the
+presence of less than one million sperm per ml of semen. It differs from azoospermia, which
+is the complete absence of sperm in the ejaculate and asthenospermia, which is the absence
+of sperm motility.
+
+2. Causes
+
+Causes of oligospermia include:
+
+e Obstruction of the normal flow of sperm due to such conditions as testicular trauma
+and vasectomy
+
+e Scarring due to surgery on the male reproductive system or from infection and
+sexually transmitted diseases.
+
+e Decrease in sperm production due to such conditions as varicoceles, hormonal
+disorders, diseases of the testicles, and obesity
+
+e Sexually transmitted disease, such as chlamydia, and gonorrhea
+
+e Other causes include stress, smoking, drug or alcohol use, some medications,
+exposure to some toxins, malnutrition, and being underweight. Some
+
+e Hormone deficiency (congenital or induced by an external cause)
+Abnormally located testis (undescended, cryptorchidism) or exposure to high
+temperatures
+
+e Drug inhibition of spermatogenesis (eg high doses of spironolactone or ketoconazole)
+and/or the effects of chemotherapy and/or radiotherapy, especially if it is testicular
+cancer
+
+e Autoimmune disorders
+
+3. Signs and symptoms
+
+The main symptoms and complications of oligospermia are sub-fertility or infertility. There are
+also a variety of symptoms of underlying causes of oligospermia, such as sexually
+transmitted diseases and hormonal disorders.
+
+4. Investigations
+e Making a diagnosis of oligospermia includes:
+e Taking a medical and sexual history and completing a general physical examination
+as well as an exam of the penis and testicles
+e Diagnostic testing includes performing a semen analysis, lab tests, testicular biopsy
+e Other tests may be done to rule-out other potential causes of oligospermia, such as a
+hormonal disorder
+
+5. Treatment
+
+Treatment varies depending on the type and severity of oligospermia, the individual case,
+and the presence of complications.
+
+e The first step in the treatment of oligospermia is prevention, which includes
+preventing sexually transmitted diseases by abstaining from sexual activity or having
+sex only within a mutually monogamous relationship in which neither partner is
+infected with oligospermia
+
+e Latex condoms also provide some protection from some sexually transmitted
+diseases when used properly
+
+e Oligospermia caused by chlamydia or gonorrhea can be treated with oral antibiotic
+medication Surgery may be needed if the cause is a varicocele or if scarring is
+causing a blockage of the flow of sperm.
+
+e Vitamin E, vitamin C, antioxidants suplementation may be helpful
+
+45
+
+----- PAGE 47 -----
+Herbal treatment
+
+Harungana madagascariensis (leaves), Bridelia ferruginea (leaves) and Euphorbia
+hirta (eaves)
+
+Dietary advice
+
+Exercise
+
+Psychotherapy
+
+6. Complications
+
+Severe oligospermia
+Male infertility
+
+7. Prevention and control
+
+Improving the diet
+
+Losing or gaining weight as needed
+
+Avoiding smoking
+
+Reducing alcohol intake
+
+Avoiding hot tubs, tight underwear, and other factors that may create excessive heat
+around the testicles and reduce sperm count
+
+Proper treatment of STIs
+
+8. Références
+
+Health Encyclopedia - Diseases and Conditions.
+http://www.healthscout.com/nav/ency/1/main.html
+
+46
+
+----- PAGE 48 -----
+N° 20: OTITIS MEDIA
+
+1. Description
+
+Otitis media is an infection or inflammation of the middle ear. "Otitis" means inflammation of
+the ear, and "media" means middle. The inflammation often begins with infections that cause
+sore throats, colds or other respiratory problems, and spreads to the middle ear. Infections
+can be caused by viruses or bacteria, and can be acute or chronic.
+
+Acute otitis media: usually of rapid onset and short duration. It is typically associated
+with fluid accumulation in the middle ear together with signs or symptoms of ear
+infection; a bulging eardrum usually accompanied by pain, or a perforated eardrum,
+often with drainage of purulent material (pus, also termed suppurative otitis media).
+Fever can be present.
+
+Chronic otitis media: is a persistent inflammation of the middle ear, typically for a
+minimum of a month. Following an acute infection, fluid may remain behind the ear
+drum for up to three months before resolving. Chronic otitis media may develop after
+a prolonged period of time with fluid or negative pressure behind the eardrum. It can
+cause ongoing damage to the middle ear and eardrum, and there may be continuing
+drainage through a hole in the eardrum. Chronic otitis media often starts painlessly
+without fever and sometimes a subtle loss of hearing can result
+
+2. Causes
+
+Risk factors are many in children, which is not the case in adults. Factors that
+increase the risk in children are:
+
+Attending a daycare or nursery
+
+Exposure to tobacco smoke or high levels of pollution
+
+Bottle feeding rather than breastfeeding
+
+The frequent use of dummies
+
+Malfunction of the Eustachian tube that drains liquids poorly
+
+3. Signs and symptoms
+
+In children and infants
+
+Fever
+
+Signs of upper respiratory infection such as a runny or stuffy nose, or a cough
+Pain in one or both ears, leading the child to touch the ear frequently
+
+Tears, irritability, difficulty falling asleep
+
+Lack of appetite
+
+Liquid flowing in one ear
+
+Loss of hearing (the child does not respond to soft sounds)
+
+In some children, otitis is manifested by digestive disorders (diarrhea, vomiting)
+Severe ear infections may cause the eardrum to rupture ; the pus then drains
+from the middle ear into the ear canal
+
+Complications of otitis media include:
+
+Adults
+
+Perforation of the eardrum with risk of deafness
+Risk of sinusitis and meningitis
+
+Throbbing (punctuated by heartbeats) in the ear, which may radiate into the head
+Sensation of plugged ear causing hearing loss
+
+General malaise (lack of energy, irritability, difficulty sleeping, etc.); sometimes
+accompanied by a high fever
+
+Tinnitus
+
+Sometimes a yellowish secretions flow through the ear canal (which indicates that the
+eardrum is perforated)
+
+Dizziness, loss of balance, dizziness
+
+Cold, which often precedes otitis media
+
+47
+
+----- PAGE 49 -----
+4. Investigations
+
+Three criteria are needed to diagnose acute otitis media; acute onset, middle ear effusion,
+and middle ear inflammation. Recurrent acute otitis media is defined as three acute otitis
+media episodes in 6 months, or 4 acute otitis media episodes in a year. There is no definitive
+lab test for acute otitis media. Identification of the three criteria is dependent on clinical
+observation and use of pneumatic otoscopy.
+
+5. Treatment
+e Use of antibiotics (e.g. amoxicillin)
+e Both oral and topical analgesics are effective in controlling the pain associated with
+ear infections
+
+Herbal treatment
+
+Blighia sapida (leaves), Aloe vera (gel) and Ocimum basilicum (leaves)
+6. Prevention and control
+
+There are several ways to prevent ear infections.
+
+e Drink a lot (water, broth) to help relieve pain
+
+e Sit, especially when fever is present
+
+e Apply a little heat on the ear can reduce pain. Use a hot water bottle, a towel warmed
+(but dry) or a heating pad (low intensity)
+Avoid airplanes, scuba diving and swimming head under water
+Avoid wetting the ear if the eardrum is perforated
+Wear earplugs during swimming and always dry the ears
+Exercises to equalize pressure in the ear
+Swallowing often simulate a yawn, chew gum
+Avoid giving babies a feeding bottle when lying down
+Avoid exposure to cigarette smoke
+
+7. References
+
+Health Encyclopedia - Diseases and Conditions.
+http://www. healthscout.com/nav/ency/1/main.html
+
+48
+
+----- PAGE 50 -----
+N° 21: ALLERGIC RHINITIS
+
+1. Description
+
+Rhinitis means "irritation of the nose" and is derived from the word rhino, meaning nose.
+Allergic rhinitis which occurs during a specific season is called "seasonal allergic rhinitis" (hay
+fever) when caused by pollen (trees, grass, ragweed, etc.). When it occurs throughout the
+year, it is called "perennial allergic rhinitis." Rhinosinusitis is the medical term that refers to
+inflammation of the nasal lining as well as the tissue lining of the sinuses. This term is
+sometime used because the two conditions frequently occur together. Allergic rhinitis can
+lead to other diseases such as sinusitis and asthma.
+
+2. Causes
+
+The major risk factors of allergic rhinitis are:
+e Hereditary: when both parents have an allergy (no matter which), the risk for the
+child to suffer from allergic rhinitis is even higher
+e Repeated exposure to airborne allergens (eg, pollen)
+e Exposure to cigarette smoke, especially during the first year of life, and other
+substances such as fireplace smoke and air pollutants
+
+3. Signs and symptoms
+
+Symptoms of allergic rhinitis, or hay fever, frequently include:
+e Nasal congestion
+
+Clear runny nose
+
+Sneezing
+
+Eye itching, redness, and excess tears in the eyes
+
+Nose itching
+
+Postnasal dripping of clear mucus frequently causes a cough
+
+Loss of the sense of smell and taste
+
+Nose bleeding
+
+Tension in the sinus area
+
+Sore throat, cough
+
+The eye symptoms are referred to as "allergic conjunctivitis" (inflammation of the whites of
+the eyes). These allergic symptoms often interfere with one's quality of life and overall health.
+
+4. Investigations
+e Identify the offending substances (allergens)-e.g. cats, grass
+e Skin testing is often needed to identify exactly the specific substance causing the
+allergy
+e Blood tests
+
+5. Treatment
+e Many patients respond to antihistamine medications
+Decongestants
+Nasal sprays
+Allergy desensitization or immunotherapy
+Herbal medicine- e.g. Butterbur
+Homeopathy
+
+Herbal treatment
+
+e Desmodium adscendens (leaves), Euphorbia hirta (leaves), Zingiber officinale
+(rhizome) and Allium sativum (bulb)
+
+e Tounblock the nose of a baby or a young child, remove some of the mucus using a
+nasal bulb. Then place a drop of warm saline solution in each nostril so that the drop
+sinks to the bottom of the nose. Straighten the child as soon as the drop has
+penetrated into the nose.
+
+e Exercice
+
+e Psychotherapy
+
+49
+
+----- PAGE 51 -----
+6. Prevention and control
+e Treating the symptoms of allergic rhinitis as they arise helps to prevent complications
+such as otitis media, asthma and chronic sinusitis.
+e Avoid smoking and second-hand smoke.
+e Reduce exposure to allergens (pollen, mold, dust mites, etc.)
+
+7. References
+
+Health Encyclopedia - Diseases and Conditions.
+http://www. healthscout.com/nav/ency/1/main.html
+
+50
+
+----- PAGE 52 -----
+N° 22: SINUSITIS
+
+1. Description
+
+Sinusitis refers to inflammation of the air cavities within the passages of the nose. The
+sinuses are bony cavities (in four pairs) located in the facial bones. This inflammation of the
+sinus mucosa, also known as rhinosinusitis is usually caused by a bacterial or viral infection
+(usually cold). Sinusitis can also be caused allergies and chemical or particulate irritation of
+the sinuses. The five most common bacteria causing sinus infections are Streptococcus
+pneumoniae, Haemophilus influenzae, Moraxella catarrhalis, Staphylococcus aureus, and
+Streptococcus pyogenes.
+
+Sinusitis can be of two types:
+e Acute: caused in most cases by a viral infection type cold
+e Chronic: it is the result of inadequately treated infectious episodes
+
+Complications of a sinus infection that may develop are meningitis, brain abscess,
+osteomyelitis, and orbital cellulitis.
+
+2. Causes
+
+Sinus infections are caused by infections from a pathogenic microorganism (virus, bacterium,
+or fungus), which grows within a sinus and causes intermittent blockage of the sinus ostium.
+Bacterial infection of the sinuses is suspected when facial pain, pus-like nasal discharge, and
+symptoms that persists for longer than a week and are not responding to over-the-counter
+nasal medications.
+
+3. Signs and symptoms
+
+The main symptoms are sinus headache, facial tenderness (above the eyebrows, nose,
+cheeks, around and behind the eyes), pressure or pain in the sinuses or on one side of the
+face, fever, cloudy discolored drainage, and feeling of nasal stuffiness, sore throat, and
+cough.
+
+Factors that increase the risk are:
+Cold or other respiratory infection
+e Humid or polluted environment
+e Smoking or exposure to smoke
+e Asthma or respiratory allergies
+
+In rare cases, serious complications can occur. These include:
+e Eye disease (especially ethmoidites)
+e Brain disorders (frontal and sphenoid sinusitis)
+a. Meningitis
+b. brain abscess
+c. cavernous sinus thrombophlebitis
+d. osteomyelitis (mainly in children)
+
+4. Investigations
+
+Sinus infection is most often diagnosed based on a history and examination. Because plain
+X-ray studies of the sinuses may be misleading and procedures such as CT and MRI scans,
+are so expensive and not readily available, most cases of sinus infection are initially
+diagnosed and treated based on clinical findings on examination. These physical findings
+may include:
+e redness and swelling of the nasal passages,
+e purulent (pus like) drainage from the nasal passages (the symptom most likely to
+Clinically diagnose a sinus infection),
+e tenderness to percussion (tapping) over the cheeks or forehead region of the sinuses,
+and swelling about the eyes and cheeks
+
+Occasionally, nasal secretions are examined for secreted cells that may help differentiate
+between infectious and allergic sinusitis.
+
+51
+
+----- PAGE 53 -----
+5. Treatment
+
+Bacterial sinusitis is usually treated with antibiotic therapy
+
+For sinusitis caused by virus infection, no antibiotic treatment is required. Frequently
+recommended treatments include pain and fever medications (such as
+acetaminophen), decongestants and mucolytics
+
+Herbal treatment
+
+Home remedies for sinus infections include, decongestants, and mucolytics. Nasal
+irrigation can be accomplished with a Neti-pot or rinse kit (nasal bidet).
+
+Steam inhalation with or without essential oils (peppermint, eucalyptus)
+
+Inhalation of salt water (saline or home preparation available in pharmacies)
+Drinking plenty of fluids (8 to 10 glasses of water or other liquids per day) to avoid
+dehydration and evacuate secretions more easily
+
+Ocimum gratisimum, Heliotropium indicum, Cymbopogon citratus and Allium sativum
+Others are Gentian, primrose, common sorrel, lemongrass and elderberry, Cape
+Geranium, Andrographis, Eucalyptus, Peppermint
+
+6. Prevention and control
+
+Preventive measures include:
+
+Avoid colds and allergies
+
+Avoid smoking or exposure to second hand smoke
+
+Encourage the removal of nasal secretions by:
+
+- Wiping nose, drinking plenty of water, using a humidifier to liquefy secretions
+- Nasal irrigation with salt water
+
+Increase water consumption to lighten and evacuate secretions more easily
+Avoid exposure to temperature changes, a cold and dry air.
+
+Avoid bending head down, as this can increase the pain
+
+Avoid swimming underwater, or flying during the acute phase
+
+Avoid aircraft or any other activity involving changes in pressure (diving,
+mountaineering, ...)
+
+7. References
+
+Health Encyclopedia - Diseases and Conditions.
+http://www. healthscout.com/nav/ency/1/main.html
+
+52
+
+----- PAGE 54 -----
+N° 23: BREAST CANCER
+
+1. Description
+
+Breast Cancer is the commonest cancer affecting women. Early detection of this cancer is
+possible through monthly breast self examination, which is especially recommended for
+women of child-bearing age, and periodic screening through clinical breast examination (3
+yearly for women below 40 years and yearly for women above 40years) as well as
+mammography every 2years for women 40 years and above. Various modalities are
+available for the treatment of breast cancer which depends on the biological characteristics
+
+of the tumour, stage of disease and other patient factors.
+
+2. Causes
+
+Unknown
+
+Associated risk factors
+
+Female sex
+
+Family history of breast cancer
+Previous personal history
+Oestrogen therapy
+
+3. Signs and symptoms
+
+Lump in the breast
+
+Other changes in breast: change in size and/or shape
+
+Skin changes in breast:
+
+- Peau d’orange
+
+- Skin nodules
+
+- Ulceration
+
+Changes in the nipple and areola:
+
+- Nipple discharge
+
+- Nipple retraction
+
+- Eczema/ulceration of nipple or areola
+
+- Swelling in axilla
+
+- Swelling of upper limb
+
+Metastatic disease:
+
+- Bone pain
+
+- Pathological fractures
+
+- Back pain
+
+- Paraplegia
+
+- Breathlessness from pleural effusion and lung metastasis
+- Brain metastasis (Headache, vomiting altered consciousness, localizing signs)
+Breast lump:
+
+- Hard
+
+- Edges may be indefinite
+
+- Surface may be rough
+
+- May be tethered to skin or attached to skin and underlying tissues
+Skin:
+
+- Peau d’ orange , tethering, nodules or ulceration
+
+- Nipple retraction
+
+- Bloody nipple discharge
+
+- Palpable axillary nodes
+
+- Look for evidence of metastatic disease
+
+4. Investigations
+
+Mammography
+Ultrasonography of the breast
+Biosy and fine Needle Aspiration for cytology and histology
+
+53
+
+----- PAGE 55 -----
+5. Treatment
+
+The goals of treatment are:
+e To achieve a cure
+e To prevent local and distant metastasis
+e To relieve pain in incurable cases
+e To prolong survival in metastatic disease
+
+5.1. Orthodox treatment
+
+Treatment plans for breast cancer are developed based on a several factors: the type and
+stage of the cancer, the sensitivity of the cancer to certain hormones, and the medical history
+of the patient.
+e Primary treatment: surgery, either a lumpectomy or mastectomy.
+e Adjuvant Therapy Treatment:
+a. Biological or targeted therapy
+b. Chemotherapy
+c. Hormone therapy
+d. Radiation, a local adjuvant therapy
+
+5.2. Herbal treatment
+e Vernonia amygdalina (leaves), Emilia sonchifolia (leaves), Citrus aurantifolia (leaves),
+Momordica charantia (leaves) and Allium sativum (bulb)
+e Stress management and relaxation techniques, including meditation and visualization,
+can also assist in overcoming the fatigue associated with breast cancer
+
+6. Prevention and control
+e No single key to preventing breast cancer
+e For the 90% of breast cancer patients who are not genetically predisposed to the
+disease, some potential causes have been suggested:
+a. Healthy Living
+b. Preventative Medication (e.g. tamoxifen)
+c. Preventative surgery (women who have a BRCA1 or BRCA2 gene mutation
+may want to consider a preventative mastectomy)
+
+d. Pre-emptive Screening
+
+However, a preventative strategy is difficult to create with any degree of accuracy.
+
+7. References
+
+Health Encyclopedia - Diseases and Conditions.
+http://www. healthscout.com/nav/ency/1/main.html
+
+54
+
+----- PAGE 56 -----
+N° 24: PROSTATE CANCER
+
+1. Description
+
+Prostate cancer is a form of cancer that develops in the prostate, a gland in the male
+reproductive system. Most prostate cancers are slow growing, although some may be
+aggressive.Ninety-five per cent of these tumours are adenocarcinomas. The majority of men
+affected are aged between 65 and 85 years. The incidence increases with age. It is
+recommended that every male of 40 years and above, should have annual screening by
+Prostate Specific Antigen (PSA) tests and Digital Rectal Examination (DRE) since early
+detection is associated with better prognosis. It is worth noting that not every prostate on
+DRE is malignant. Likewise a normal-feeling prostate does not exclude a malignancy. A
+
+prostatic biopy is therefore necessary to establish a diagnosis.
+
+2. Causes
+
+Ageing
+
+Functional testes
+
+Family history
+
+Race (more common in blacks)
+High dietary fat intake
+
+3. Symptoms
+
+Lower Urinary Tract Symptoms(LUTS)
+
+e Retention of urine
+e Haematuria
+e General debility anorexia, weight loss, listlessness
+e Bone pain (commonly in the waist or limbs)
+e Paralysis in the lower limbs or inability to walk
+4. Signs
+
+On DRE clinical signs include:
+
+Hard prostate gland with an irregular surface and edges
+
+Obliterated median sulcus
+Adherent rectal mucosa
+Advanced or metastatic disease:
+Anaemia
+
+Uraemia
+
+Wasting
+
+Bone tenderness
+
+Paraplegia
+
+Pathological fracture
+
+5. Investigations
+
+FBC
+
+Blood urea, electrolytes and creatinine
+Prostate specific antigen (PSA)
+
+Liver functions tests
+
+Abdominal and pelvic ultrasound
+Transrectal ultrasound (TRUS) of the prostate, if available
+Transrectal needle biopsy of the prostate
+TRUS — guided or finger-guided
+
+6. Treatment
+Treatment objectives are:
+
+To relieve symptoms
+
+To control complications
+
+To achieve cure for early disease
+
+To prevent local progression and metastases
+
+55
+
+----- PAGE 57 -----
+Orthodox
+
+The method (or methods) chosen is determined by how advanced the cancer is, whether it
+has spread outside the prostate, and the overall health of the patient.
+e Surgery
+e Radical Prostatectomy (complete removal of the prostate gland) -cancer is confined
+to the prostate alone, which can be done multiple ways:
+e Open Surgery: a large incision is made in the abdomen or the perineum (the area
+between the rectum and the scrotum) to access the prostate.
+a. Laparoscopic Surgery: several specialized cameras and tools are used to see
+inside the body through small incisions.
+b. Robotic-assisted Laparoscopic Surgery: the surgeon controls very precise
+robotic arms to perform laparoscopic surgery.
+e Radiation Therapy
+e Hormone Therapy- a drug (or combination of drugs) that affects androgens in the
+body The classes of drugs used in prostate-cancer hormone therapy include:
+a. Luteinizing hormone-releasing hormone (LHRH) analogs, LHRH agonists, and
+LHRH antagonists, which prevent the testicles from making testosterone.
+b. Antiandrogens, which block the action of androgens in the body.
+e Other androgen-suppressing drugs, which prevent the adrenal glands from making
+testosterone
+Another hormone-therapy option is orchiectomy, the surgical removal of the testicles.
+Chemotherapy
+Immunotherapy
+High-Intensity Focused Ultrasound (HIFU)
+
+5.2. Herbal treatment
+
+Bridelia ferruginea (leaves), Momordica charantia (leaves), Trichilia monadelpha (bark) and
+Zingiber officinale (rhizome)
+
+6. Prevention and control
+
+e Regular, decaf, half-caf, coffee
+
+e Intake of trans-fatty acids: increase inflammation and insulin resistance, both of which
+may play a role in prostate cancer
+
+e Avoid commercially baked doughnuts and cookies, as well as packaged baked goods
+containing hydrogenated oil
+
+e Eat more cooked tomato products (lycopene, more potent after they're cooked)
+
+e Regular exercise (playing tennis, running, swimming, or biking, etc.)
+
+e Increase intake of omega-3 fatty acids DHA and EPA (fish oil)
+
+7. References
+
+Health Encyclopedia - Diseases and Conditions.
+http://www. healthscout.com/nav/ency/1/main.html
+
+56
+
+----- PAGE 58 -----
+N° 25: LEUKAEMIA
+
+1. Desription
+
+Leukaemia is the uncontrolled production of white cells at different stages of maturation.
+There are two main types of leukaemia depending on the type of white cell affected. These
+are lymphoid leukaemia and myeloid leukaemia. Each can further be divided into acute
+(where the patient falls suddenly ill) and chronic (where the patient may have been harboring
+the disease for months and occasionally years without knowing). Leukaemia may therefore
+present as Acute Myeloid Leukaemia (AML) and chronic myeloid leukaemia (CML). All is
+commonest in children especially boys, CLL is commonest in the elderly, AML and CML cut
+across all age groups and sexes.
+
+2. Causes
+e Usually no cause in any particular case
+e Viruses e.g. Human T Lymphotrophic Virus Type 1 (HTLV-1) and Epstein Barr Virus
+(EBV)
+e Chemicals e.g. alkylating agents such as Melphalan
+e Radiation
+
+3. Symptoms
+
+Acute leukaemia:
+
+Fever
+
+Easy fatigability
+
+Bruising tendencies
+
+Bone and joint pain especially in children
+
+Chronic leukaemia
+e Asymptomatic
+Dragging sensation left side of abdomen
+Easy satiety
+Weight loss
+Generalized itch
+Lymph nodal swellings
+
+4. Signs
+
+Acute leukaemia
+e  Pallor
+Fever
+Skin and mucosal haemorrhages
+Gum hupertrophy (AML subtype 5)
+Firm, rubbery, non-tender lymph nodes (lymphoid leukaemia)
+Splenomegaly
+
+Chronic leukaemia
+e Splenomegaly, often massive in CML
+e Generalized lymph node enlargement in CLL
+
+5. Investigations
+e FBC and blood film comment
+e Chest X-ray
+e Bone marrow aspirate and trephine biopsy
+e BCR-ABL rearrangement in ALL and CML
+
+57
+
+----- PAGE 59 -----
+6. Treatment
+
+Treatment objectives:
+e To aim for a cure for ALL in children
+e To aim for a cure for good prognostic cases of ALL in adults
+e To achieve remission and prolong good quality life in AML
+e Tocontrol white cell counts and symptoms and prolong good quality life in CML
+
+The main orthodox treatment approaches are:
+= Chemotherapy
+= Radiation Therapy
+= Biologic Therapy
+
+Herbal treatment
+e Curcumin (turmeric), green tea, olive leaf, Ginseng, peels of citrus fruit
+e Ganoderma lucidum, Silybum marianum, Solanum sp., Hedyotus diffusa, Graviola
+fruit, Vitex negundo
+e Watchful waiting or careful observation in CLL
+e Good hydration
+
+7. References
+
+Health Encyclopedia - Diseases and Conditions.
+http://www. healthscout.com/nav/ency/1/main.html
+
+58
+
+----- PAGE 60 -----
+N° 26: DIARRHOEA
+
+1. Description
+
+Diarrhoea means passing frequent, loose, watery stools 3 or more times in a day. Diarrhoea
+is often accompanied by vomiting. It is very common in children. The commonest cause in
+this age group is viral. There is therefore usually no need to prescribe antibiotics. Fluid loss
+occurs quickly in children because of their size. If this is not corrected it may result in
+dehydration which can be fatal. In children, other diseases like malaria, pneumonia, ear
+infections, urinary infections, may cause diarrhoea. Examine the child fully to make sure
+there is no obvious cause for the diarrhoea. The presence of a fever usually indicates an
+underlying cause. Never take the complaint of diarrhoea lightly. Always ask how many times
+that day and the day before the patient has been to the toilet, and the texture of the stools.
+To one person who usually passes stool once in three (3) days, a motion every day seems
+like diarrhoea, but to another person this is normal. Giving antibiotics may cause or prolong
+the diarrhoea except in special circumstances (see below). Malnutrition causes diarrhea,
+which in turn also causes malnutrition, setting up a vicious cycle. Never give enemas or
+laxatives to patients with diarrhoea.
+
+2. Causes
+e Viral e.g. Rotavirus
+e Bacterial e.g. Shigella
+e Protozoal e.g. Amoabae
+e Side effects of some medications e.g. Penicillins
+
+3. Symptoms
+
+e Frequent watery stools
+Bloody or mucus in the stool
+Presence of fever
+Reduced urine output
+Associated vomiting
+
+4. Signs
+e Dehydration
+
+5. Investigations
+
+e FBC
+Blood film for malaria parasite
+Stool routine examination
+Stool for culture and sensitivity
+Blood urea and creatinine
+
+6. Treatment
+
+Treatment objectives:
+
+e To prevent dehydration: this is very important since so much of the child’s body fluid
+is being lost through the stool and vomiting
+
+e To replace lost fluid: as much fluid as goes into the stools should be given to the child
+to drink for replacement
+
+e To maintain nutrition: mothers tend not to give a child who has diarrhea anything or
+very little to eat, at a time when he needs all the food he can get! Continue to feed as
+much as can be tolerated
+
+e To maintain personal hygiene: or else you end up taking the germs from the stools,
+back into the mouth, continuing the diarrhea you are trying to stop
+
+e To eliminate infecting organisms where appropriate
+
+59
+
+----- PAGE 61 -----
+Herbal treatment
+
+e Ocimum gratissimum (leaves), Psidium guajava (leaves), Alchornea cordifolia
+(leaves) or;
+
+e Bridelia ferruginea, Ocimum gratissimum (leaves), Alchornea cordifolia (leaves) or;
+
+e Bridelia ferruginea (leaves), Adansonia digitata (stem bark), Alchornia cordifolia
+(leaves)
+
+e Keep surroundings clean
+
+e Improve personal hygiene e.g hand washing after toilet
+
+7. Prevention and control
+
+To avoid developing diarrhea from food poisoning, consider:
+" washing the cooking and food preparation areas more frequently
+= serving food immediately
+= refrigerating leftovers promptly
+= thawing food in the refrigerator
+
+Traveler's diarrhea can also be prevented. If you are planning a long vacation to a
+developing country, consider:
+= asking your doctor if you can begin an antibiotic treatment before you leave. This will
+greatly reduce your risk of developing traveler’s diarrhea.
+"avoiding tap water, ice cubes, and fresh produce likely washed with tap water. Drink
+bottled water and eat cooked food only.
+
+If you are suffering from diarrhea as the result of a viral or bacterial infection, you can take
+the following actions to prevent spreading your infection to others:
+
+= Wash your hands more frequently.
+
+= Use soap to wash your hands for 20 seconds.
+
+= Use hand sanitizer when washing your hands is not possible.
+
+8. References
+
+Health Encyclopedia - Diseases and Conditions.
+http://health._yahoo.net/health/diarrhoea
+
+60
+
+----- PAGE 62 -----
+N° 27: PEPTIC ULCER DISEASE
+
+1. Description
+
+Peptic ulcer may be duodenal or gastric. Duodenal ulcers are more common and occur more
+often in younger adults. Gastric ulcer usually occurs after middle age.
+
+2. Causes
+e Excessive secretion of gastric acid
+e Inadequate protection of the lining of the stomach and duodenum against digestion by
+acid and pepsin
+e Helicobacter pylori (H. pylori) infection
+e Medicines e.g. non — steroidal anti-inflammatory drugs (NSAIDs), corticosteroids
+
+3. Symptoms
+
+e Abdominal pain
+a. May be a minor discomfort, gnawing, burning, dull ache or very severe pain
+b. Typically in the epigastrium or right hypochondrium
+c. Occasionally high up behind the sternum or low down around the umbilicus
+d. In duodenal ulcer, typically comes on when the patient is hungry and may wake
+
+the patient up in the middle of the night.
+
+e. In gastric ulcer, it is typically worsen by food
+f. Is relieved by alkalis and food in duodenal ulcer
+
+e Vomiting may occur in both duodenal and gastric ulcers
+
+4. Signs
+e Tenderness in the epigastrium, right hypochondrium or umbilical region during an
+attack
+
+5. Investigation
+e Haemoglobin
+e Oesophago-gastro-duodenoscopy
+a. With biopsy for histology and staining (for H.pylori)
+b. With urease test (for H. pylori)
+e Barium meal in the absence of endoscopy
+e Stool examination to exclude intestinal parasites
+
+Complications of gastric ulcer include perforation, gastric outlet obstruction and haemorrhage
+that does not respond to conservative measures.
+
+6. Treatment
+
+Treatment objectives:
+e To relieve pain and reduce gastric acid secretion
+To promote healing of the ulcer
+To eradicate H.pylori of the ulcer
+To prevent recurrence of the ulcer
+To avoid complications
+
+Treatment will depend on the underlying cause of your ulcer. If tests show that you have an
+H. pylori infection, a combination of medication will be prescribed:
+
+e antibiotics—medications that help kill infections
+
+e proton pump inhibitors (PPls)—medications that help reduce stomach acid
+
+e over-the-counter PPI (such as Prilosec or Prevacid)
+
+e Acid blockers (like Zantac or Pepcid)
+
+61
+
+----- PAGE 63 -----
+Herbal treatment
+
+Aloe vera juice, Euphorbia hirta (leaves), Momordica charantia (leaves) and Ximenia
+
+americana
+
+Avoid smoking and alcohol intake
+
+Avoid foods that aggravate the pain
+
+Allay anxiety and stress
+
+Surgery-indications for surgery:
+
+a. Chronicity-crippling periodic attacks
+
+b. Economic factors which make it difficult for the the patient to persevere with
+medical treatment
+
+6. Prevention and control
+
+Certain lifestyle choices and habits can reduce your risk of developing peptic ulcers. These
+include:
+
+quitting smoking and other tobacco use
+
+eating a healthy diet rich in fruits, vegetables, and whole grains
+not drinking more than two alcoholic beverages a day
+
+not mixing alcohol with medication
+
+washing your hands frequently to avoid infections
+
+limiting your use of ibuprofen, aspirin, and naproxen sodium
+
+7. References
+
+http://health.yahoo.net/health/peptic-ulcer
+
+62
+
+----- PAGE 64 -----
+N° 28: INSOMNIA
+
+1. Description
+
+Insomnia is the ability to obtain adequate sleep, irrespective of whether the patient has
+trouble getting to sleep, suffers frequent nocturnal arousals, or awakens too early. Assssing
+a complaint of sleep disorders requires a thorough history and clinical examination and
+specific sleep-wake history. Insomnia may suggest an underlying medical, psychological,
+psychiatric (especially depression) or environmental problem.
+
+2. Causes
+e Medicines e.g. Ephedrine, phenylephrine
+Caffeine — containing beverages e.g. coffee,tea
+Alcohol
+Drugs of abuse e.g. cocaine marijuana, amphetamines
+Underlying medical , psychological and environmental factors
+Anxiety disorder
+Depression
+
+3. Investigation
+e FBC
+e LETs
+e BUE and creatinine
+e Sleep study
+
+4. Treatment
+
+When lifestyle changes and behaviour therapies aren't relieving the symptoms of insomnia,
+doctors will often turn to medication. Doctors don’t generally recommend relying on
+prescription sleeping pills for more than a few weeks, as they can become addictive. Some of
+the most prescribed brand name sleep medications include Ambien, Lunesta, Rozerem, and
+Sonata.
+
+Herbal treatment
+e Lippia multiflora (leaves), Cymbopogon citratus (leaves) and Hibiscus sabdarifa
+(calyx)
+
+e Valeriana officinalis
+
+e Herbal teas made from chamomile, hops, passion flower, or St. John’s Wort
+
+e Educate patients to adopt a lifestyle that promotes good sleep
+
+e Have regular exercise
+
+e Avoid strenuous exercise close to bedtime
+
+e Establish good sleep hygiene i.e a routine for ‘winding down’, going to bed and
+preparing for sleep
+
+e Avoid alcohol and caffeine — containing beverages close to bedtime
+
+e Ensure a comfortable and quiet environment for sleep
+
+e Relaxation therapy
+
+e Stimulus control treatment of sleep by going to go to bed only when sleepy and to get
+
+out of bed if sleep is interrupted.
+
+5. Prevention and control
+
+= Prevention techniques, such as maintaining a healthy lifestyle, learning how to
+manage stress, and cutting out bad habits can have a significant impact on promoting
+quality sleep. In addition the following may be helpful:
+
+" Stick to your sleep schedule-when possible, try to go to bed and get up at the same
+time every day; try not to take naps during the day, and if a daytime nap is needed,
+keep it under 30 minutes in the early afternoon
+
+= Don’t stay in bed when you're not sleeping
+
+= Resist the urge to linger in bed if you wake up feeling rested; ilf you can’t sleep, don’t
+lie there staring at the ceiling for hours on end; instead, if it’s been more than 15
+
+63
+
+----- PAGE 65 -----
+minutes of sleeplessness, get out of bed and do something relaxing, such as
+meditation or reading, until you feel sleepy
+
+Relax
+
+Try taking a warm bath or have your partner give you a massage before going to bed
+Create a soothing bedtime ritual such as listening to soft music, doing gentle yoga, or
+reading. Acupuncture
+
+Create seclusion
+
+Make your bedroom conducive to sleep
+
+Close the door when you go to sleep and run a fan (if you like) to help eliminate
+outside noises. Keep your bedroom cooler at night than in the day, and as dark as
+possible.
+
+Exercise for 20-30 minutes every day, five hours or more before bedtime
+
+Avoid caffeine, alcohol, and nicotine
+
+Skip late-night snacks and meals
+
+Maintain a healthy diet, and avoid foods that are high in saturated fat, which may
+cause heartburn and indigestion
+
+Eliminate pain
+
+Hide the time-tThe less you know what time it is—particularly when you wake in the
+middle of night—the better you’re likely to sleep
+
+Know what’s causing your sleepless nights
+
+6. References
+
+http://health.yahoo.net/health/insomnia-prevention
+
+64
+
+----- PAGE 66 -----
+N° 29: DEPRESSION
+
+1. Description
+
+Depression is a mood disorder. It occurs in all age groups although symptoms may be
+different in children. It has a tendency to recur, although some may become bipolar, when
+episode of mania may also be observed. Some patients present mainly with bodily
+symptoms, sleep disturbances as well as morbid dreams and “worrying excessively”. They
+hardly mention a depressive mood unless they are asked specifically, and even then many
+deny or trivialize it as a consequence of acknowledged symptoms like headaches or
+insomnia. Most cases of suicide or attempted suicide are from depression; one should not
+dismiss or take for granted statements made by patients such as ‘I want to die, ‘life is not
+wealth living’, ‘| am fed up with life’. All cases of attempted suicide should be referred to a
+psychiatrist after initial management of the presenting complication e.g. self inflected
+accident or poison. Recurrent depression or unipolar depression is treated differently (with
+antidepressants) from bipolar depression, which responds more to mood stabilizers
+
+2. Causes
+e Genetic
+Familial
+Environmental
+Psychosocial factors
+Endocrine disorders e.g. hypothyroidism, Cushing‘s syndrome
+
+3. Symptoms
+
+The diagnoses criteria for major depression relies on the presence of at least five of the
+
+following symptoms experienced every day for at least two weeks.
+e Depressed mood
+
+Loss of interest or pressure
+
+Significant weight loss or gain
+
+Insomnia or sleeping too much
+
+Psychomotor agitation or retardation
+
+Fatigue or loss of energy
+
+Feelings of worthlessness or excessive guilt
+
+Impaired thinking or concentration ; indecisiveness
+
+Multiple bodily complaints
+
+Suicidal thoughts/thoughts of death
+
+Hallucinations /delusions of morbid themes in severe cases
+
+In children
+
+e Truancy or refusal to go to school
+Poor school performance
+Bedwetting in a previously ‘dry’ child
+Odd behavior, aggression or defiance
+Irritability
+Appetite changes
+Some of the ‘adult’ symptoms
+
+4. Signs
+e Depressed mood
+e Evidence of weigh loss or obesity
+e Agitation or retardation
+e Hallucinations
+
+5. Investigations
+e FBC
+e BUE and creatinine
+
+65
+
+----- PAGE 67 -----
+e FBS
+e Thyroid function and cortisol levels if indicated
+
+6. Treatment
+e Treatment objectives
+e To reduce symptoms
+e To prevent disruption to normal life at home, work or school
+e To prevent suicide
+
+Herbal treatment
+e Cola nitida (cotyledons), Aframomum melegueta (seeds) and Zingiber officinale
+(rhizome)
+e St. John's Wort, Kava kava
+
+7. References
+
+http://health.yahoo.net/articles/depression/depression-facts
+
+66
+
+----- PAGE 68 -----
+N° 30: SCHIZOPHRENIA
+
+1. Description
+
+Schizophrenia is probably the most severe and potentially disabling form of mental illness
+and occurs in about 1% of the people in every community worldwide. Schizophrenia may
+present as an acute or chronic illness. The clinical features include characteristics of
+‘positive’ or ‘negative’ symptoms, deterioration in social, work or interpersonal relationships
+and continued evidence of disturbed behaviour for at least 6 months. The clinical features
+may be numerous and can change over time. Psychosis associated with substance abuse
+and mood disorders with psychotic features may mimic schizophrenia.
+
+2. Causes
+e Cause is largely unknown
+e Possible causes include:
+a. Genetics
+b. Birth defects
+c. Environmental triggers
+d. Illicit drugs
+
+3. Symptoms
+
+‘Positive’ symptoms
+e Hallucinations
+e Delusions
+e Incoherent speech or illogicality
+e Odd or disorganized behavior
+e Disorders of thought possession
+‘Negative’ symptoms
+e Poverty of speech or of content of speech
+Apathy
+Reduced social contact or withdrawal
+Flattened effects (showing little facial expressive responses)
+Delusions may be persecutory (undue suspicion) or totally bizarre like being
+controlled or being made to feel emotions or sensations.
+e Hallucinations may involve any of the senses but auditory ones are most common;
+experienced as voices speaking clearly or in mumbled tones.
+e Disorders of thought possession include feeling of the patient’s thoughts being
+accessible to others.
+e Motor disorders often occur but are not essential for diagnosis.
+
+4. Treatment
+
+Treatment objectives:
+e To abolish symptoms and restore functioning to the maximum level possible
+e To reduce the chances of recurrence
+e Non-pharmacological treatment
+
+Treatments include electroconvulsive therapy (ECT), sometimes called "shock treatment,"
+and, tranquilizing antipsychotic medications, such as the phenothiazines and more recently,
+a new generation of medications (known as atypical antipsychotics), which tend to have
+fewer side effects than older medications.
+
+Herbal treatment
+e Rauwolfia vomitoria (roots), Lippia multiflora (leaves), Hos/undia opposita (leaves),
+Zingiber officinale (rhizome) and Xylopia aethiopica (fruits)
+e Vitamin D- may play a role in reducing inflammation and boosting immune system
+function
+
+67
+
+----- PAGE 69 -----
+e Fish Oil- a natural source of omega-3 fatty acid
+
+e Glycine
+Diet Management- a healthful diet, characterized by low-fat, high-fiber, whole grains,
+
+e
+fresh fruits and vegetables, and fatty fish (a good source of omega-3 fatty acids)
+
+5. References
+http://health.yahoo.net/health/schizophrenia/alternative-treatments
+
+68
+
+----- PAGE 70 -----
+N° 31: ALCOHOLISM
+
+1. Description
+
+Dependence on alcohol and development of related problems is a common and often
+unrecognized disorder. Alcoholism is often associated with many physical health problems.
+The greatest problem is the recognition and diagnosis of alcoholism since affected
+individuals are often in denial of their problem. They under-declare the amount and
+frequency of alcohol consumption and usually appear in hospital only with complications. The
+coexistence of other psychiatric illnesses like Depression with alcoholism is common.
+
+2. Causes
+
+Genetic, familial and environmental factors are all important.
+
+3. Symptoms
+
+These may be observed by relatives or co-workers
+e Recurrent use of alcohol resulting in failure to fulfill major obligations at work, school
+or home.
+e Recurrent use in situations where it is physically hazardous e.g. driving
+Continued use despite having persistent or recurrent social, legal or interpersonal
+problems caused by effects of alcohol
+Development of tolerance
+Withdrawal syndromes
+Taking increasingly larger amounts over longer periods than intended
+Previous unsuccessful attempts at stopping
+
+4. Signs
+e Reddening
+
+Smooth red palms
+
+Painless enlargement of liver
+
+Bruises from minor accidents etc.
+
+Parotid gland enlargement
+
+5. Investigations
+e Mean Corpuscular Volume(MCV) is increased in majority of alcoholism patients
+e Liver Enzymes(AST, ALT) are often increased
+e Serum Gamma Glutamyltransferase (GGT) is increased in majority of alcoholics
+e Ultrasound scan of liver
+
+6. Treatment
+
+Allopathic treatment of alcoholism has two parts. The first phase is the treatment of acute
+effects of alcoholism, called detoxification. The second phase involves learning how to live
+with the disease of alcoholism.
+
+Treatment objectives:
+e To treat complications
+e To achieve total abstinence from alcohol use
+
+Herbal treatment
+
+e Alternative treatments can be a helpful adjunct for the alcoholic patient once the
+medical danger of withdrawal has passed. Because many alcoholics have very
+stressful lives (because of, or leading to, the alcoholism), many of the treatments for
+alcoholism involve dealing with and relieving stress. These include massage
+meditation, and hypnotherapy. Others include acupuncture, biofeedback, behavioral
+therapy, motivational enhancement therapy, and aversion therapy
+
+e Use of nutritional supplements, such as vitamins A, B complex, and C; certain fatty
+acids; amino acids; zinc; magnesium; and selenium
+
+69
+
+----- PAGE 71 -----
+e Supplements that support antioxidant, detoxifying, restorative and corrective
+deficiencies
+
+e Herbal treatments include milk thistle (Silyoum marianum), which is thought to protect
+the liver against damage. Other herbs are thought to be helpful for the patient
+suffering from withdrawal. Some of these include the antidepressive properties of
+lavender (Lavandula officinalis), the calming and restorative nerve tonifying effects of
+skullcap (Scutellaria_lateriflora), chamomile (Matricaria recutita), and valerian
+(Valeriana officinalis), the stimulating and GI effects of peppermint (Mentha piperita),
+and the bladder aid, yarrow (Achillea millefolium).
+
+e Cassia occidentalis, Phyllanthus fraternus, Azadiractha indica and Moringa oleifera
+
+7. References
+
+http://health.yahoo.net/galecontent/alcoholism/5
+
+70
+
+----- PAGE 72 -----
+N° 32: ANXIETY DISORDERS
+
+1. Description
+
+Anxiety is a common symptom that occurs in all psychiatric disorders including depressive
+illness and most psychoses. Some patients have a mixture of anxiety and depressive
+symptoms, but pure states exist. Due the the similarity of symptoms, it may be difficult to
+differentiate an anxiety state from minor depressive illness. Anxiety may also significantly
+overshadow many serious illnesses. It may be worthwhile to exclude any underlying physical
+diseases especially hyperthyroidism, cardiac disease or hypertension. Although there are
+various forms of anxiety disorders (generalized anxiety disorder , panic disorder, phobias,
+obsessive compulsive disorder, acute stress disorder, post traumatic stress disorder), the
+commonest seen in generalized anxiety disorders are panic disorders.
+
+Generalised Anxiety Disorders
+
+1. Description
+
+In this condition, there is excessive anxiety and worry about events or activities, such as
+performance at school or work, occurring on most day for at least 6 months.
+
+2. Causes
+e LIFE experience
+e Environmental factors
+e Personality
+e Genetics
+
+3. Symptoms
+
+Excessive anxiety and worry occurring on most days, for at least 6 months
+The anxiety or worry is associated with at least 3 of the following
+e Muscle tension (often reported as pain in various parts like neck, trunk or headaches )
+Crawling and burning sensation around the body
+Restlessness or feeling on edge
+Being easily fatigued
+Difficult concentrating or mind going biank
+Irritability
+Sleep disturbance(difficulty falling asleep or frequent wakening)
+Palpitation
+
+4. Signs
+e Restlessness
+e Sweating
+e Anxious mood
+e Tachycardia
+
+5. Investigations
+
+No laboratory tests confirm the diagnosis. However, exclude underlying conditions,
+especially hyperthyroidism, phaeochromocytoma, cardiac arrhythmias
+
+6. Treatment
+
+Treatment objectives:
+e To reduce anxiety
+e To attain relief of somatic symptoms
+a) Psychotherapy
+b) Medication
+c) Lifestyle Changes
+e getting an adequate amount of sleep (about eight hours a night)
+e exercise regularly
+
+71
+
+----- PAGE 73 -----
+e devoting time to stress relief
+e avoiding unnecessarily stressful situations
+e career change, if anxiety is focused around work
+
+Herbal treatment
+Gossypium arboreum (leaves), Lippia multiflora (leaves), Hoslundia opposita (leaves)
+Eat a Balanced Diet
+Drink More Water
+Limit Your Caffeine
+Get Regular Exercise
+Massage Your Muscles
+Meditation
+Nutritional supplements and herbs include:
+. vitamin B12
+. fish oil
+. chamomile
+. Kava root
+. inositol
+St. John’s Wort
+
+™-7™>oQa008
+
+7. Prevention and control
+= Stress relief
+= Proper diet
+= Keeping a journal- to track moods, stress, and anxiety
+= Avoiding unhealthy substances
+
+While tobacco, drugs, and alcohol are often called stress relievers, using them actually
+damages the body, making it harder for it to handle stress
+
+8. References
+
+http://health.yahoo.net/health/anxiety-treatments
+
+72
+
+----- PAGE 74 -----
+N° 33: BOILS
+
+1. Description
+
+A boil or furuncle is a deep bacterial infection of the hair follicles. A more superficial infection
+is termed folliculitis and a group of boils in an area is termed a carbuncle. Patients with
+recurrent boils or carbuncles should be screened for diabetes mellitus and/or
+immunodeficiency.
+
+2. Causes
+
+Infection of the skin with staphylococcus aureus
+
+3. Symptoms
+e Single or multiple swellings on the skin which may discharge pus
+e Painful swellings on the skin
+
+4. Signs
+e Purulent swellings on the skin in single or multiple areas of skin
+e Swellings may be warm and/or tender
+
+5. Treatment
+
+Treatment objectives:
+e To treat infection
+e To relieve pain
+e To identify and treat any predisposing condition
+
+a) Compresses- boils are usually treated with application of antibiotic creams, following the
+application of hot compresses. The compresses help the infection to come to a head and
+drain and are an important part of the treatment regime.
+
+b) Carbuncles and furunculosis are usually treated with oral antibiotics as well as antibiotic
+creams or ointments
+
+c) Boils or carbuncles that are very large or that do not resolve may be opened with a sterile
+needle or surgical knife to allow the pus to drain
+
+d) Resveratrol, which is a phytoalexin, appears to be highly effective in treating boils and
+other skin infections in humans caused by S. aureus.
+
+5.1. Herbal treatment
+
+Bidens pilosa (leaves), Rauwolfia vomitora (root) and Alchornea cordifolia (leaves)
+
+6. Prevention and control
+
+To minimize the risk of developing bacterial skin infections the skin should be kept clean; to
+avoid spreading the infection, washcloths, towels, and facial cosmetics should not be shared
+with others. A healthy diet should be maintained and allergic foods should be eliminated.
+This will ensure that the immune system will be supported, and that boils will be prevented.
+
+7. References
+
+http://health.yahoo.net/search?q1=boils
+
+73
+
+----- PAGE 75 -----
+N° 34: GASTROESOPHAGEAL REFLUX DISEASE
+
+1. Description
+
+Gastroesophageal reflux disease (GERD) is caused by backflow of gastric or duodenal
+contents or both past the lower oesophageal sphincter into the oesophagus without belching
+or vomiting.
+
+The disease is classified into two groups based on endoscopy findings as non-erosive
+gastroesophageal disease (non erosive GERD) and erosive gastroesophageal disease (
+erosive GERD). Failue to treat may result in oesophagitis, ulceration, strictures and rarely
+adenocarcinoma.
+
+2. Causes
+
+Hiatus hernia
+
+Increased intra-abdominal pressure e.g in pregnancy
+
+Obesity
+
+Long term use of nasogastric tube
+
+Agents that decrease lower oesophageal sphincter pressure e.g. alcohol, cigarrettes,
+anticholinergics (e.g. Propantheline bromide) , other drugs — Morphine , Diazepam
+and Meperidine
+
+Children with chronic neurological disease
+
+3. Symptoms
+
+Heartburn — worsens with vigorous exercise , bending forward , lying; relieved by
+antacids and sitting upright
+
+Dyspepsia
+
+Early satiety
+
+Retrosternal and epigastric pain:mimics angina pectoris radiating to neck, jaw and
+arm; the pain is worse on bending down e.g. sweeping Pain on swallowing
+Nocturnal regurgitation : wakes patients up with coughing , choking and filling of the
+mouth with saliva
+
+Nocturnal asthma
+
+In children:
+
+Failure to thrive
+Forceful regurgitation which may lead to aspiration pneumonia
+Iron deficiency anaemia
+
+4. Signs
+
+Epigastric tenderness occationally
+
+5. Investigations
+
+Barium swallow with fluoroscopy (especially useful in children)
+Oesophago-gastro-duodenoscopy (OGD) or upper gastro-intestinal track endoscopy
+Abdominal ultrasound (to exclude other diseases)
+
+6. Treatment
+
+Treatment objectives:
+
+To relieve symptoms
+To prevent complications
+
+a) Medication-include everything from antacids to H2 receptor blockers or proton pump
+inhibitors
+
+b) Nissen fundoplication-surgical procedure, in which a portion of the stomach is lifted over
+the junction between the stomach and esophagus to increase pressure on the lower
+esophageal sphincter (LES). This prevents stomach acids from entering the esophagus.
+Although highly effective, the Nissen fundoplication may result in increased bloating,
+flatulence, and trouble swallowing.
+
+74
+
+----- PAGE 76 -----
+6.1. Traditional treatment
+e Ficus cordata (stem bark), Spathodea campanulata (stem bark) and Zingiber
+Officinalie (rhizome)
+Chinese honeysuckle flower
+Melatonin
+Peppermint
+Hynopsis, massage, and relaxation techniques such as guided imagery have been
+found to be helpful for some people
+
+7. Prevention and control
+e Standard Treatments -some of the best treatments for GERD can be lifestyle changes
+such as quitting smoking, losing weight, or eating smaller meals more frequently
+e Avoid foods such alcohol, citrus fruits, caffeinated and carbonated beverages, fried or
+fatty foods, and spicy foods, including garlic and onions
+
+8. References
+
+http://health.yahoo.net/health/gerd/alternative-treatment
+
+75
+
+----- PAGE 77 -----
+N° 35: GINGIVITIS AND STOMATITIS
+
+1. Description
+
+These are inflammatory conditions involving the gums and mucosa of the oral cavity.
+
+2. Causes
+e Bacterial, from poor oral hygiene
+e Viral e.g. herpes simplex, measels
+e Vitamin deficiency
+e Chemicals allergic reaction
+
+3. Symptoms
+
+e Sore mouth
+Bleeding gums expecially after brushing
+Pain while swallowing
+Cracks at the corners of the mouth
+Poor appitite
+Nausea
+
+4. Signs
+e Hyperaemic buccal mucosa and gums
+e Ulcers may be present
+
+5. Investigations
+
+FBS
+Mouth swab
+
+6. Treatment
+e Treatment objectives
+e To relieve pain and inflammation
+
+To treat gingivitis you must practice proper oral hygiene. You should also cut back on any
+smoking and control your diabetes. Other treatments include deep cleaning your teeth,
+medications, and surgery.
+
+e Antibiotic mouthwash containing chlorhexidine can be used to disinfect the mouth.
+
+e Time-release antiseptic chips containing chlorhexidine can be inserted into pockets
+
+after root planing.
+
+e Antibiotic microspheres made with minocycline can be inserted in pockets after
+scaling and planing.
+Oral antibiotics can be used to treat persistent areas of gum inflammation.
+Doxycycline, an antibiotic, can help keep enzymes from causing tooth damage.
+Surgery
+Flap
+Bone and tissue grafts
+
+Herbal treatment
+
+Adenia lobata (leaves), Alchornea cordifolia (leaves) and Plumbago zeylanica (leaves)
+
+7. Prevention and control
+
+Gingivitis can be prevented by proper and consistent oral hygiene. Make certain to eat a
+balanced diet and visit the dentist regularly. Brush your teeth twice daily with fluoride
+toothpaste. Floss your teeth every day.
+
+8. References
+
+http://health.yahoo.net/health/gingivitis
+
+76
+
+----- PAGE 78 -----
+N° 36: ORAL THRUSH
+
+1. DESCRIPTION
+
+It mainly affects the very young , the very old or those whose immunity is impaired. It occurs
+more frequently in HIV/AIDS patients, the malnourished, diabetics, patients on long term
+antibiotics and corticosteroids.
+
+2. CAUSES
+
+Candida albicans
+
+3. SYMPTOMS
+
+White patches in the mouth
+
+Burning sensation in the mouth.
+Diffuculties in swallowing
+
+Breast fed babies may refuse to suck
+
+4. SIGNS
+
+White patches in the mouth
+
+5. INVESTIGATIONS
+
+FBC
+Fasting blood glucoce
+HIV status indicated
+
+6. TREATMENT
+
+Treatment objectives
+
+To eradicate infections
+To identify and treat any underlying condition
+
+Treatment for oral thrush varies depending on age and overall health. The purpose of
+treatment is to prevent the growth and spread of the fungus.
+
+Treatment for oral thrush may consist of:
+
+clotrimazole lozenge (an antifungal medication that you leave in your mouth until it
+dissolves)
+
+nystatin (an antifungal mouthwash that you swish around in your mouth and then
+swallow)
+
+fluconazole or itraconazole (oral antifungal medications used for cases that are
+resistant to initial treatments or for patients who have HIV/AIDS)
+
+amphotericin B (an oral or intravenous drug used to treat patients with very resistant
+infections or whose infection has spread to other parts of the body)
+
+Your at-home regimen for treating oral thrush should include:
+
+brushing with a soft toothbrush to avoid scraping the lesions
+
+replacing your existing toothbrush regularly until the oral thrush clears up
+
+not using mouthwashes or sprays
+
+using a 3 percent hydrogen peroxide solution or saltwater mixture to rinse your mouth
+maintaining appropriate blood sugar levels if you have diabetes
+
+eating unsweetened yogurt with Lactobacillus acidophilus or taking acidophilus
+capsules to help restore and maintain healthy levels of “good” bacteria
+
+When a breastfeeding infant has oral thrush, both the mother and infant should be treated to
+prevent a cycle of reinfection. Treatment in these cases may include:
+
+using an antifungal medication for the baby and an antifungal cream for the mother’s
+breasts
+
+rinsing pacifiers, bottle nipples, and all pieces of a breast pump in a half water/half
+vinegar solution and allowing the items to air dry
+
+using nursing pads to prevent the fungus from spreading to your clothes
+
+77
+
+----- PAGE 79 -----
+Traditional treatment
+
+7. Prevention and control
+
+e Practice good oral hygiene by brushing and flossing your teeth daily. This is
+especially important if you have diabetes or wear dentures.
+
+e Rinse out your mouth after using a corticosteroid inhaler.
+
+e Add acidophilus capsules or yogurt with Lactobacillus acidophilus to your diet when
+you are taking prescribed antibiotics.
+
+e Promptly treat a vaginal yeast infection, especially if you are pregnant.
+
+e Avoid foods that are high in sugar and/or yeast, since they could encourage the
+fungus that causes oral thrush.
+
+8. References
+http://health.yahoo.net/health/thrush
+
+78
+
+----- PAGE 80 -----
+N° 37: MALNUTRITION
+
+1. Description
+
+Food is necessary for proper growth, development of the body and maintenance of health. A
+normal and properly balanced diet, consists of food that has sufficient amounts of protein
+necessary for growth and maintenance, carbohydrates and fats necessary for energy and
+vitamins and minerals for protection against disease. Malnutrition occurs when there is a
+deficiency in intake of some or all of the above nutrients. It is most commonly seen in
+children less than five years, particularly after weaning. In many cases, the malnourished
+child is brought to the health unit because of other complaints such as diarrhoea, vomiting,
+fever, worms or cough. In adults, malnutrition frequently occurs in association with chronic
+alcoholism. Malnutrition can result in a breakdown of the child’s or adult’s ability to fight
+disease and infection. An infection in a malnourished individual may thus become very
+severe and result in death. A child suffering from malnutrition may have features of marasms,
+kwashiorkor or both [marasmic-kwashiokor]. These children lack both protein and sources of
+energy [protein Energy Malnutrition, PEM]. Protein Energy Malnutrition (PEM) is divided into
+three stages using weight/age, weight/height and upper arm circumference. The mild form of
+PEM is the commonest type in Ghana.
+
+Mild PEM
+e Weihgt for age:<80% but >70%
+e Weight for height: 70-80%
+e Mid upper Arm circumference: 12.5-13.5cm
+e The child is thin with some muscle wasting
+e The child plays less because of lack of energy.
+
+Moderate PEM
+e Weight for age : <70% but > 60%
+e Mid upper Arm circumference: 12.0-12.5cm
+e Early signs of Kwashiorkor or marasmus may be present.
+e The symptoms and signs are as in mild PEM but more pronounced
+
+Severe PEM
+e Weight for age :<60% of expected weight for age
+e Weight for height :<70%
+e Mid Upper Arm circumference: <12cm.
+e Inthe stage there are signs of maramus, kwashiorkor or marasmic-kwashiorkor.
+
+2. Causes
+
+e Inadequacy of quality and/or quantity of food intake
+
+e Social neglect
+
+e Chronic illness and cancers
+a. Infections and infestations(children):
+b. Measles, pertussis HIV, pulmonary tuberculosis
+c. Worm infestations
+
+e Alcoholism (adults)
+
+3. Symptoms
+
+e Weight loss
+
+e Poor weight gain (marasmus)
+
+a. May be noted as drop or flattening in weight on the “Road to Health “ chart
+
+Body swelling (Kwashiorkor)
+Lack of energy
+Apathy
+Disinterest in food
+
+79
+
+----- PAGE 81 -----
+4. Signs
+
+Marasmus
+e Thin (reduced muscle bulk)
+Prominent bones
+Hanging skin folds especially over the buttocks
+Unusually alert
+Looks like an old man
+
+Kwashoirkor
+e Thin and wasted arms
+Puffy face and legs due to oedema
+Brownish or reddish hair
+Flaky skin rash especially on the legs
+Sores on the oedematous parts of the body in severe cases
+Miserable and apathetic appearance
+Disinterest in food
+
+5. Investigations
+e FBC
+Urea and electrolytes
+Urine culture and sensitivity
+Chest X-ray
+HIV testing
+Gastric lavage for acid fast bacilli
+
+6. Treatment
+
+Treatment objectives:
+e To correct the nutrirional deficiency
+To prevent reoccurrence
+To check and correct complications
+Anaemia
+To identify and treat underlying infections and infestations
+To adequately manage chronic illness
+
+Herbal treatment
+e Launea taraxacifolia, Moringa oleifera, Cinnamomun zeylanica, Soya bean or;
+e Soya bean, Moringa oleifera, Launea taraxacifolia and Cinnamomun zeylanica
+
+7. References
+
+http://health.yahoo.net/health/malnutrition
+
+80
+
+----- PAGE 82 -----
+N° 38: STROKE
+
+1. Description
+
+A Stroke or cerebrovascular accident is a rapidly developing focal (or global), disturbances of
+cerebral function lasting 24 hours or longer or leading to death, with no apparent cause other
+than a vascular origin. The risk factors for a stroke include hypertension, diabetes mellitus,
+cigerette smoking , cardiac arrhythmias , obesity, plasma lipid abnormalities, heart and
+peripheral vascular disease and excessive alcohol intake. Stroke are usually sudden in onset
+or may show progression over several hours or occasionally days. The site of the brain
+
+lesion causing the stroke usually determines the neurological presentation.
+
+2. Causes
+
+Cerebral infarction form
+
+a. Thrombosis of the cerebral vessel
+
+b. Embolism from a distant site (Atrial fibrillation)
+Intracerebral haemorrhage
+Subarachnoid haemorrhage
+
+3. Symptoms
+
+4. Signs
+e
+
+Weeakness of one side of the boby including face
+
+Inability to rise up from a sitting or lying position
+
+Sudden fall
+
+Loss of speech
+
+Severe headache and /or neck pain (subarachnoid haemorrhage)
+Unconciousness in some patients
+
+Seizures
+
+Paralysis of a limb and/or the face
+
+Initial flaccidity, but spasticity and exaggerated reflexes occur later
+Loss of one-half of visual field (Hemianopia)
+
+Loss of sensation of one —half of body(hemi-anaesthesia)
+Extensor plantar response
+
+Alteration of speech (dysarthria/dyspasia)
+
+Neck stiffness(in subarachnoid haemorrhage)
+
+5. Investigations
+
+FBC
+
+Blood glucose
+
+Serum lipid profile
+
+Blood urea, electrolytes and creatinine
+Uric acid
+
+ECG
+
+CT scan/MRI of the head
+
+Chest X-ray
+
+6. Treatment
+
+Treatment objectives:
+
+To limit the progression area of brain damage
+
+To protect patients from the dangers of unconsciouness and immobility
+To treat the underlying cause if possible
+
+To institute measures to improve functional recovery
+
+To support and rehabilitate patients who survive with residual disability
+To prevent recurrence of cerebrovascular lesions
+
+81
+
+----- PAGE 83 -----
+Treatment for a stroke should begin as soon as possible. The quicker emergency treatment
+begins, the greater the chance of preventing any lasting damage. Treatment depends on the
+type of stroke a person is having.
+
+Emergency treatment for ischemic stroke must start within 4.5 hours of the event.
+Treatment for an ischemic stroke—the most common kind that involves a blood clot in
+the brain—will be to break up the clot that is blocking or disrupting blood flow in the
+brain.
+
+One of the most common treatments doctors use during stroke emergencies is simple
+aspirin
+
+Other drugs designed to break up clots. These drugs can be injected via via a
+catheter—or thin tube—through your arteries. The most common medication used to
+treat stroke is known as tissue plasminogen activator (tPA), and will help break up
+clot that has formed in the brain. Other oral drugs that may eventually be used to thin
+the blood and reduce risk of future stroke include clopidogrel, stains, and warfarin.
+
+Herbal treatment
+
+Phyllanthus fraternus (leaves), Allium sativum (bulb), Strophanthus hispidus (roots) and
+Momordica charantia (leaves)
+
+7. Prevention and control
+
+Preventing a stroke is all about taking care of the heart and blood. This means keeping good
+cholesterol high, and bad cholesterol low with diet, exercise, and avoiding some specific bad
+habits. Here are some ways to lower the risks for stroke:
+
+Eat a diet rich in fibre, whole grains, fresh fruits, and lots of vegetables
+
+Avoid foods that are processed, high in cholesterol, high in saturated fat, and loaded
+with sodium
+
+Exercise-thirty minutes of exercise a day can help
+
+Mind Your Blood Pressure-avoid sodium and get some regular exercise; eat a diet
+that is high in fruit, vegetables, and potassium
+
+Don’t Smoke
+
+Limit Alcohol
+
+Control Chronic Conditions-if you suffer from high cholesterol, high blood pressure,
+obesity, or diabetes, then the more you actively manage your condition, the better
+chance you have of avoiding a stroke.
+
+8. References
+
+http://health.yahoo.net/health/stroke/prevention
+
+82
+
+----- PAGE 84 -----
+N° 39: ECZEMA (DERMATITIS)
+
+1. Description
+
+Eczema is an itchy reaction of the skin to a number of factors, either exogenous (e.g. contact
+dermatitis ) or endogenous (e.g. seborrhoea and atopy). Papules, blisters (vesicles, pustules
+and bullae) and oozing characterise the lesions when acute. There is_ thickening
+(lichenification), prominent skin lines and scaling chronic. There are three main types as
+follows:
+
+Atopic eczema
+
+This presents as remitting and relapsing itchy conditions of the face, wrists, ankles, cubital
+and popliteal fossae. Onset is in childhood often with a familial background of atopy (asthma,
+hay fever , eosinophilia and similar skin problem). Spontaneous resolution often occurs by
+teenage.
+
+Seborrhoeic eczema and dandruff
+
+This presents as a scaly weeping rash of the scalp, eyebrows, perinasal and periauricular
+skins; sometimes it presents as hypopigmented macules. It occurs in infancy, adolescence
+or adulthood. It may be associated with dandruff and pityrosporum ovale infection. Extensive
+forms are associated with immunosusuppressive states, particularly AIDS.
+
+Contact eczema
+
+It may be an irritant (concentration dependent) or allergic (idiosyncratic) reaction to specific
+chemicals such as metals, rubber etc. In constrast to the endogenous types, the skin
+reaction is confined to the areas directly in contact with the offending chemical.
+
+2. Causes
+e Familial
+e Atopy
+e Reaction to metals, rubber, chemicals, drugs, foods etc
+e Immunosuppression
+
+Several factors can increase the risk of an eczema flare-up. These include fabrics that are
+rough to the touch, such as wool as well as harsh soaps, cleansers and detergents, and
+even cold weather that can dry out skin.
+
+3. Symptoms
+e Scaly weeping rash
+e Hypo-pigmented macules
+e Itching
+
+4. Signs
+e Erythema
+Vesicles
+Fissures
+Scale rash
+Lichenification (thickened skin)
+
+5. Investigations
+
+Closed patch testing (may be used for identification of allergens in contact eczema)
+
+6. Treatment
+
+Treatment objectives:
+e To eliminate symptoms
+e To identify and avoid predisposition factors
+
+83
+
+----- PAGE 85 -----
+The most effective way to manage eczema symptoms is by taking medications, along with
+make some behavioral changes. Eczema drugs fall into several categories: antihistamines,
+corticosteroids, antibiotics and immunosuppressants. There are several medications
+available that can help control and prevent eczema outbreaks.
+
+Herbal treatment
+e Cassia nodosa (leaves), Cassia alata (leaves) and Hos/undia opposita (leaves
+e Some natural treatments that may help with the eczema include:
+a. Tea
+b. Borage Oil
+c. Evening Primrose Oil
+d. Mind/Body Approaches-techniques that lower stress may reduce the risk of the
+eczema (meditation, yoga, progressive muscle relaxation or guided imagery)
+. Acupuncture
+Aromatherapy helps promote relaxation and reduces stress, which can put you
+at greater risk of an eczema occurrence. Put a drop of water infused with
+essential oil such as chamomile or lavender onto your pillow at night can help
+ease stress and anxiety.
+
+mo
+
+7. Prevention and control
+
+Behavioural changes can have a significant impact in reducing the likelihood of an eczema
+flare-up and they don’t require any medication. There are several ways that can help keep
+eczema under control or at least reduce the severity of an outbreak:
+
+Avoid Scratching
+
+Try Rubbing Instead
+
+Reduce Stress
+
+Moisturize-Dry skin can trigger an eczema flare up and make the skin condition more
+uncomfortable
+
+Get Adequate Sleep
+
+e Avoid Irritants
+
+8. References
+
+http://health.yahoo.net/health/eczema-prevention
+
+84
+
+----- PAGE 86 -----
+| N° 40: RHEUMATOID ARTHRITIS
+
+1. Description
+
+This is a chronic systemic autoimmune inflammatory disease characterised mainly by
+symmetrical inflammation of the synovial tissue of joints resulting in destruction of the joints
+and peri-articular tissues. It occurs more commonly in young and middle-aged women. The
+symptoms fluctuate widely with periods of remission and exacerbation. Other organs such as
+the lungs, kidney, eyes and the haematopoietic system may occasionally be affected.
+Rheumatoid arthritis should be treated as early as possible with disease modifying anti-
+rheumatic drugs (DMARDs) to control symptoms and delay disease progression.
+
+2. Cause
+
+Autoimmune disease
+
+3. Symptoms
+e Pain and swelling in small joints of the hands and wrists for several weeks
+Morning joint stiffness
+Fever
+Weight loss, lethargy, depression
+Poltmyalgia-systemic illness with muscle pain, minimal joint Involvement and
+explosive overnight joint pain
+
+4. Signs
+
+e Sindle-shape fingers, often symmetrical
+Limitation of small joint movement
+Joint deformities e.g. ulnar deviation at wrists, finger deformities
+Carpal tunnel syndrome
+Synovitis swelling and tendeness over joints
+Anaemia — normocytic normochromic in character
+Rheumatoid nodules
+Muscle wasting around affected joints if long standing
+Dry eyes
+Peripheral sensory neuropathy
+Depression
+Cardiac and pulmonary involvement
+
+5. Investigations
+e Rheumatoid
+Antinuclear antibodies (ANA)
+FBC
+ESR
+X-ray of affected joints
+
+5.1. Herbal treatment
+
+Saba camorensis (aerial parts), Cassia sieberiana (stem bark) and Trichilia monadelpha
+(stem bark)
+
+6. References
+http://health.yahoo.net/health/rheumatoid arthritis
+
+85
+
+----- PAGE 87 -----
+N° 41: OSTEOARTHRITIS
+
+1. Description
+
+This is a degenerative joint disease that damages the articular cartilage leading to reactive
+new bone formation. Weight bearing joints (hips, knees), cervical and lumbar spine and the
+metacarpo-phalangeal and distal-interphalangeal joints of the hands are commonly affected.
+Osteoarthritis is more common in females than males.
+
+2. Causes
+e Ageing
+e Trauma
+e Obesity
+
+3. Symptoms
+e Pain at initiation of exercise(walking)
+e Morning stiffness which improve with exercise
+e Diminution of joint movement
+
+4. Signs
+e Crepitus on moving affected joints
+e Heberden ‘s nodes and deformed joints in the hands
+e Joint swelling, warmth and effusions (knee especially)
+e Osteoarthritis of cervical cancer and lumbar spine may lead to muscle weakness in
+hands and legs respectively (myelopathy)
+
+5. Investigations
+
+e FBC
+
+e ESR-mildly elevated
+
+e X-ray of affected joints-narrowing and irregularity of the space
+6. Treatment
+
+Treatment objectives:
+e To relieve pain
+e To prevent and manage deformities
+e To educate patient
+6.1. Herbal treatment
+Entandophragma angolensis (stem bark), Cassia sieberiana (stem bark), Trichilia
+monadelpha (stem bark) and Morinda lucida (leaf)
+7. References
+http://health.yahoo.net/health/osteoarthritis
+
+86
+
+----- PAGE 88 -----
+No 42: LIVER CANCER
+
+1. Description
+
+Hepatocellular carcinoma (HCC) is a primary malignancy of the liver cell and must be
+differentiated from malignancies elsewhere that metastasize to the liver. HCC occurs more
+commonly in men than in women and is often dignosed several years after establisment of
+the initial causative condition. The disease has a poor prognosis resulting from early
+metastases to the lung, portal vein, per-portal lymph nodes, bone or brain and complications
+such as hepatic failure, variceal bleeding or tumour rupture with bleeding into the
+peritoneum. The tumour is often resistant to chemotherapy. Current strategies to prevent or
+treat hepatitis B and C infections and liver cirrhosis have a potential for reducing the
+prevalence of HCC in the long term.
+
+2. Causes
+e Alcoholism liver cirrhosis
+e Chronic hepatitis B virus infection
+e Cronic hepatitis C virus infection
+e Chronic exposure to hepatic carcinogens e.g. Aflatoxin
+3. Symptoms
+e Jaundice
+Itching
+Weight loss
+Haematemesis
+Abdominal distension
+Right upper abdominal pain
+
+4. Signs
+e Jaundice
+Cachexia
+Hepatomegaly(irregular surface, multiple nodules, may be tender)
+Ascites
+Bruit over the liver
+
+5. Investigations
+e LEFs
+e Blood level of alpha — fetoprotein
+e Abdominal ultrasound scan
+e Chest X-ray
+
+6. Treatment
+Treatment objectives:
+e To reliave pain
+e To relieve discomfort from gross ascites
+e To prevent or treat hepatic encephalophy
+6.1. Herbal treatment
+Morinda lucida (leaves), Tectonia regia (leaves), Phyllanthus fraternus (leaves) and
+Catharantus roseus (leaves)
+7. References
+
+http://health.yahoo.net/health/liver cancer
+
+87
+
+----- PAGE 89 -----
+List of Contributors
+
+Name
+
+Position and Contact Details
+
+Prof Dr Yaw BIO
+
+Director, Kwame Nkrumah University of Science and
+Technology Hospital, Kumasi-GHANA
+
+(233) 32 20 60 300 / 20 81 53 302
+
+E-mail: bioy97@yahoo.co.uk
+
+Dr Ehoule KROA
+
+Directeur Coordonnateur du Programme National de
+Promotion de la Médecine Traditionnelle; COTE d’IVOIRE
+Tél: +225 20 32 47 68/05 68 86 23
+
+Fax: +225 20 33 27 81
+
+Email: ekroa2002@yahoo.fr & pnpmt_ci@yahoo.fr
+
+Dr Kofi Annan
+
+Head of Department, Department of Herbal Medicine,
+Faculty of Pharmacy
+
+College of Health Sciences
+
+Kwame Nkrumah University of Science and Technology,
+Kumasi-GHANA
+
+E-mail : annan.kofi82@yahoo.com
+
+Dr Bunmi Omoseyindemi
+
+Chairman, Lagos State Traditional Medicine Board, Ministry
+of Health, 7 King George V Road, Onikan, Lagos-NIGERIA
+Tel: +234 80 23 20 63 03/+234 80 54 25 76 59
+
+Email: bunmiomoseyin@yahoo.com
+
+Dr Roch HOUNGNIHIN
+
+Coordonnateur du Programme National de la Pharmacopée
+et de la Médecine Traditionnelles
+
+01 BP 882 Cotonou-BENIN
+
+Tél. +229 21 33 45 83/95 06 13 35
+
+Email : roch_houngnihin2001@yahoo.fr
+
+Rita KUSI-APPIAH
+
+Medical Herbalist
+
+Accra-GHANA
+
+Tel: +233 244 97 70 29
+
+E-mail: naa3calotropis@yahoo.co.uk
+
+Charles KATTY
+
+Chargé de Programme et Coordinateur des recherches au
+Centre Expérimental des Médecines Traditionnelles de
+Fatick - Sicap Liberté II n°1538 Dakar-SENEGAL
+
+Tel : +221 824 96 48/832 28 50
+
+Cel: +221 581 96 21
+
+E-mail : prometra@prometra.org &
+
+erickg@refer.sn
+
+Ms Diana OPARE
+
+St Luke Natural Health Clinic
+Tema-GHANA
+E-mail: naa3calotropis@yahoo.co.uk
+
+Mme Agnes I. EHOLY
+
+Secrétaire
+
+c/o Directeur Coordonnateur du Programme National de
+Promotion de la Médecine Traditionnelle, COTE d’IVOIRE
+Tél. +225 20 32 47 68 / 07 92 30 52/01 16 29 11
+
+E-mail: imby2003@yahoo.fr
+
+88
