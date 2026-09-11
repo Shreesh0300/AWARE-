@@ -9,17 +9,17 @@ print("🚨🚨🚨 A.W.A.R.E. v3.0: THE HYBRID BRAIN IS ONLINE 🚨🚨🚨")
 # =====================================================================
 def triage_router(patient_query):
     print("\n[ 🏥 FRONT DESK TRIAGE... ]")
-    clean_query = patient_query.lower().strip()
     
-    greetings = ['hi', 'hello', 'hey', 'good morning', 'good evening', 'thanks', 'ok']
-    if clean_query in greetings or any(clean_query.startswith(g + " ") for g in greetings):
-        return "GREETING"
-        
-    math_triggers = ['+', '*', '/', '=', 'math', 'calculate', 'divisor', 'multiply', 'equation']
-    if any(trigger in clean_query for trigger in math_triggers):
-        return "REJECT"
-
-    system_instruction = "Extract core symptom in 1-3 words. No math. If nonsense, output: REJECT."
+    system_instruction = """
+    You are a strict medical triage AI.
+    Extract the core medical symptom, condition, or disease from the user's query in 1-4 words.
+    
+    RULES:
+    1. If the user is just saying hello or greeting you, output exactly: GREETING
+    2. If the user is saying thank you, bye, or agreeing (e.g. "yea okay thanks byee"), output exactly: FAREWELL
+    3. If the query is completely unrelated to health (e.g. math, coding, random words), output exactly: REJECT
+    4. Otherwise, extract the medical condition (e.g., STOMACH PAIN, FATAL FAMILIAL INSOMNIA).
+    """
     
     response = ollama.chat(model='mistral', messages=[
         {'role': 'system', 'content': system_instruction},
@@ -27,7 +27,10 @@ def triage_router(patient_query):
     ], options={'temperature': 0.0, 'repeat_penalty': 1.2})
     
     result = response['message']['content'].strip().upper()
-    return "REJECT" if "REJECT" in result else result
+    if "GREETING" in result: return "GREETING"
+    if "FAREWELL" in result: return "FAREWELL"
+    if "REJECT" in result: return "REJECT"
+    return result
 
 # =====================================================================
 # 2. DYNAMIC SPECIALIST (Search, Verifier, and Interviewer)
@@ -40,7 +43,7 @@ def dynamic_specialist(user_query, core_symptom):
         chroma_client = chromadb.PersistentClient(path="./aware_chroma_db")
         collection = chroma_client.get_collection(name="aware_medical_collection", embedding_function=sentence_transformer_ef)
         
-        res_west = collection.query(query_texts=[core_symptom], n_results=3)
+        res_west = collection.query(query_texts=[core_symptom], n_results=10)
         # --- DEBUGGING BLOCK: THE INTERCEPTION ---
         print("\n🚨 AUDIT: WHAT DID CHROMADB ACTUALLY FIND? 🚨")
         if 'documents' in res_west and len(res_west['documents'][0]) > 0:
@@ -51,27 +54,28 @@ def dynamic_specialist(user_query, core_symptom):
             print("❌ ChromaDB returned absolutely nothing for Western.")
             print("🚨 END AUDIT 🚨\n")
 # -----------------------------------------
-        res_ayur = collection.query(query_texts=[f"{core_symptom} physical signs"], n_results=2)
+        res_ayur = collection.query(query_texts=[f"{core_symptom} physical signs"], n_results=10)
         if 'documents' in res_ayur and len(res_ayur['documents'][0]) > 0:
             for i, chunk in enumerate(res_ayur['documents'][0]):
                 print(f"\n--- Ayurvedic Chunk {i+1} ---")
                 print(f"{chunk}")
+        else:
             print("❌ ChromaDB returned absolutely nothing for Ayurveda.")
         
 
-        
         all_docs = res_west['documents'][0] + res_ayur['documents'][0]
-        all_chunks = res_west['documents'][0] + res_ayur['documents'][0]
         all_dist = res_west['distances'][0] + res_ayur['distances'][0]
         
+        distance_threshold = 0.40
         verified_chunks = []
         for i in range(len(all_docs)):
-            
-            if all_dist[i] < 2.0: 
+            if all_dist[i] <= distance_threshold: 
                 verified_chunks.append(all_docs[i])
                 print(f"✅ Context Verified (Distance: {all_dist[i]:.2f})")
+            else:
+                print(f"❌ Context Rejected (Distance: {all_dist[i]:.2f} > {distance_threshold})")
 
-        medical_context = "\n\n".join(verified_chunks) if verified_chunks else "General knowledge."
+        medical_context = "\n\n".join(verified_chunks) if verified_chunks else "No verified medical data found for this query."
             
     except Exception as e:
         medical_context = f"Error: {e}"
@@ -153,7 +157,12 @@ def diagnostic_summary_agent(core_symptom, patient_answers, medical_context):
     system_instruction = """
     You are the Senior Diagnostician. Provide a hybrid assessment (Western + Ayurveda).
     
-    REQUIRED SECTIONS:
+    CRITICAL ANTI-HALLUCINATION RULES:
+    - You MUST ONLY base your assessment on the provided REFERENCE MATERIAL.
+    - If the REFERENCE MATERIAL says "No verified medical data found for this query." or does not explicitly cover the patient's condition, YOU MUST NOT GUESS.
+    - If there is insufficient data, your ENTIRE assessment must simply be: "Insufficient verified data in the knowledge base to provide a safe diagnosis or treatment plan for this condition." and nothing else.
+    
+    REQUIRED SECTIONS (Keep each section concise, 1-2 sentences max!):
     1. Summary: Explain the likely Western condition (e.g. GERD) and Ayurvedic state (e.g. Pitta).
     2. Treatment (Educational): List common medications (e.g. Antacids, PPIs) AND Ayurvedic remedies (e.g. Avipattikar Churna, Cooling herbs).
     3. Recommendations: Lifestyle changes based on both systems.
@@ -199,6 +208,9 @@ if __name__ == "__main__":
         
         if triage_result == "GREETING":
             print("\n🏥 A.W.A.R.E: Hello! How can I help you today?")
+            continue
+        elif triage_result == "FAREWELL":
+            print("\n🏥 A.W.A.R.E: You're very welcome! Take care and stay healthy! Goodbye.")
             continue
         elif triage_result == "REJECT":
             print("\n🏥 A.W.A.R.E: I only assist with medical symptoms.")
